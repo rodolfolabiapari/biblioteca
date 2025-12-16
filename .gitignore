@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Dados Temporários
+data/input_isbns.txt
+
+# Conteúdo Binário (NÃO versionar ebooks no GitHub)
+library/ebooks/*
+!library/ebooks/.gitkeep
+
+# IDEs e OS
+.DS_Store
+.vscode/
