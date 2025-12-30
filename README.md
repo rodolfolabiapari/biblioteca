@@ -14,4 +14,8 @@ Escaneei todos os ISBN de todos os livros e depois importei no Calibre.
 
 Os metadados do Calibre, capas e afins não são confiáveis.
 
+## Ta faltando livro?
 
+Sim, falta cerca de uns 20 a 40 livros para serem catalogados. Um dia eu
+termino.
+Falta todos os ebooks também. Não sei com fazer todos eles ainda.

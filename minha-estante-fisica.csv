@@ -1,5 +1,3 @@
-Integration status: True
-Initialized urlfixer
 id ,title                                                                                   ,authors                     ,publisher                   ,tags                        ,isbn         ,*cdd            ,*cdd_class                 ,
 1  ,Extra Focus                                                                             ,Jesse J. Anderson           ,Vada Press                  ,Nonfiction, Self Help,      ,9798988644217,None            ,substring: unknown function
    ,                                                                                        ,                            ,                            ,Happiness, Health & Well    ,             ,                ,
@@ -136,7 +134,7 @@ id ,title                                                                       
 56 ,Carcereiros                                                                             ,Drauzio Varella             ,Companhia das Letras        ,Non-Fiction, libib          ,9788535921694,610.92          ,substring: unknown function
 57 ,O Abolicionismo                                                                         ,Joaquim Nabuco              ,None                        ,Classics, History, libib,   ,9786556662398,981.04          ,substring: unknown function
    ,                                                                                        ,                            ,                            ,Sociology                   ,             ,                ,
-58 ,"O Capital" de Marx                                                                     ,Ben Fine & Alfredo Saad     ,Editora Contracorrente      ,Philosophy, Non-Fiction,    ,9786588470268,335.412         ,substring: unknown function
+58 ,\"O Capital\" de Marx                                                                     ,Ben Fine & Alfredo Saad     ,Editora Contracorrente      ,Philosophy, Non-Fiction,    ,9786588470268,335.412         ,substring: unknown function
    ,                                                                                        ,Filho                       ,                            ,Politics, libib             ,             ,                ,
 59 ,A Cor Púrpura                                                                           ,Alice Walker                ,José Olympio                ,Feminism, Classics,         ,9788503010313,813             ,substring: unknown function
    ,                                                                                        ,                            ,                            ,Historical, libib           ,             ,                ,
@@ -317,7 +315,7 @@ id ,title                                                                       
 138,Duna                                                                                    ,Frank Herbert               ,Aleph                       ,Fantasy, Classics, libib,   ,9788576573135,813.0876        ,substring: unknown function
    ,                                                                                        ,                            ,                            ,Science Fiction             ,             ,                ,
 139,China, o despertar do dragão                                                            ,Luis Giffoni                ,Editora Leitura             ,libib                       ,9788573587647,951             ,substring: unknown function
-140,Como funciona o fascismo: a politica do "nós" e "eles"                                  ,Jason F. Stanley            ,L&PM                        ,History, libib, Non-Fiction,,9788525438201,321.94          ,substring: unknown function
+140,Como funciona o fascismo: a politica do \"nós\" e \"eles\"                                  ,Jason F. Stanley            ,L&PM                        ,History, libib, Non-Fiction,,9788525438201,321.94          ,substring: unknown function
    ,                                                                                        ,                            ,                            ,Philosophy, Politics        ,             ,                ,
 141,Morte no Nilo                                                                           ,Agatha Christie             ,L&PM                        ,Mystery, Crime, libib,      ,9788525438157,823             ,substring: unknown function
    ,                                                                                        ,                            ,                            ,Thriller, Classics          ,             ,                ,
