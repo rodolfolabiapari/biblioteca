@@ -1,35 +1,647 @@
 [
   {
+    "*cdd": "981.04",
     "*cdd_class": "substring: unknown function",
     "*read": false,
-    "authors": "Jesse J. Anderson",
-    "id": 1,
-    "isbn": "9798988644217",
-    "publisher": "Vada Press",
-    "tags": [
-      "Nonfiction",
-      "Self Help",
-      "Happiness",
-      "Health & Well Being",
-      "Mental Health",
-      "Personality",
-      "Psychology"
-    ],
-    "title": "Extra Focus"
-  },
-  {
-    "*cdd": "823.9",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "James Joyce",
-    "id": 2,
-    "isbn": "9789895621682",
-    "publisher": "Pandora's Box",
+    "authors": "Joaquim Nabuco",
+    "id": 57,
+    "isbn": "9786556662398",
     "tags": [
       "Classics",
+      "History",
+      "libib",
+      "Sociology"
+    ],
+    "title": "O Abolicionismo"
+  },
+  {
+    "*cdd": "951",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Luis Giffoni",
+    "id": 139,
+    "isbn": "9788573587647",
+    "publisher": "Editora Leitura",
+    "tags": [
       "libib"
     ],
-    "title": "Ulysses"
+    "title": "China, o despertar do drag\u00e3o"
+  },
+  {
+    "*cdd": "947",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Vijay Prashad",
+    "id": 192,
+    "isbn": "9788577433582",
+    "publisher": "Express\u00e3o Popular",
+    "tags": [
+      "History",
+      "Politics",
+      "Sociology"
+    ],
+    "title": "Estrela Vermelha Sobre o Terceiro Mundo"
+  },
+  {
+    "*cdd": "940.54217082",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Svetlana Alexievich",
+    "id": 10,
+    "isbn": "9788535927436",
+    "publisher": "Companhia das Letras",
+    "tags": [
+      "Feminism",
+      "War",
+      "History",
+      "libib"
+    ],
+    "title": "A guerra n\u00e3o tem rosto de mulher"
+  },
+  {
+    "*cdd": "929.20973",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Edward Klein",
+    "id": 149,
+    "isbn": "9788500014680",
+    "publisher": "Ediouro",
+    "tags": [
+      "libib"
+    ],
+    "title": "Maldi\u00e7\u00e3o Dos Kennedy, A"
+  },
+  {
+    "*cdd": "927.8242166",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Deborah Curtis",
+    "id": 171,
+    "isbn": "9788562885303",
+    "publisher": "IDEAL",
+    "tags": [
+      "Biography",
+      "Music",
+      "Art",
+      "libib"
+    ],
+    "title": "Tocando a Dist\u00e2ncia. Ian Curtis E Joy Division"
+  },
+  {
+    "*cdd": "923.1",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Joachim Fest",
+    "id": 147,
+    "isbn": "9788520917404",
+    "publisher": "Nova Fronteira",
+    "tags": [
+      "War",
+      "Biography",
+      "History",
+      "libib"
+    ],
+    "title": "Hitler, Vol 1"
+  },
+  {
+    "*cdd": "901",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "David Graeber & David Wengrow",
+    "id": 153,
+    "isbn": "9786559211722",
+    "publisher": "Companhia das Letras",
+    "tags": [
+      "Sociology",
+      "libib",
+      "Philosophy",
+      "Politics",
+      "Science",
+      "History"
+    ],
+    "title": "O despertar de tudo: Uma nova hist\u00f3ria da humanidade"
+  },
+  {
+    "*cdd": "897",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "H. P. Lovecraft",
+    "id": 100,
+    "isbn": "9788577152438",
+    "publisher": "Hedra",
+    "tags": [
+      "Horror",
+      "libib",
+      "Science Fiction",
+      "Classics",
+      "Fantasy"
+    ],
+    "title": "A cor que caiu do espa\u00e7o"
+  },
+  {
+    "*cdd": "895.13",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Mo Yan",
+    "id": 31,
+    "isbn": "9788535926347",
+    "publisher": "Companhia das Letras",
+    "tags": [
+      "Contemporary",
+      "Historical",
+      "libib"
+    ],
+    "title": "As R\u00e3s"
+  },
+  {
+    "*cdd": "895.13",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Chen Zhongshi",
+    "id": 67,
+    "isbn": "9788574483047",
+    "publisher": "Esta\u00e7\u00e3o Liberdade",
+    "tags": [
+      "Classics",
+      "Historical",
+      "libib"
+    ],
+    "title": "Na Terra do Cervo Branco"
+  },
+  {
+    "*cdd": "895.13",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Liu Cixin",
+    "id": 68,
+    "isbn": "9788556510501",
+    "publisher": "Suma",
+    "tags": [
+      "libib",
+      "Science Fiction",
+      "Fiction",
+      "Alien Contact",
+      "Fantasy"
+    ],
+    "title": "A floresta sombria"
+  },
+  {
+    "*cdd": "895.13",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Liu Cixin",
+    "id": 83,
+    "isbn": "9788556510204",
+    "publisher": "Suma de Letras",
+    "tags": [
+      "Fantasy",
+      "Adult",
+      "libib",
+      "Science Fiction"
+    ],
+    "title": "O Problema dos Tr\u00eas Corpos"
+  },
+  {
+    "*cdd": "891.793",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Vasily Grossman",
+    "id": 163,
+    "isbn": "9788579623394",
+    "publisher": "Alfaguara",
+    "tags": [
+      "Classics",
+      "War",
+      "Historical",
+      "libib"
+    ],
+    "title": "Vida e Destino"
+  },
+  {
+    "*cdd": "891.73",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Fyodor Dostoevsky",
+    "id": 102,
+    "isbn": "9788573266573",
+    "publisher": "Editora 34",
+    "tags": [
+      "Classics",
+      "General",
+      "Fiction",
+      "libib"
+    ],
+    "title": "Contos Reunidos"
+  },
+  {
+    "*cdd": "891.73",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Ivan Turgenev",
+    "id": 106,
+    "isbn": "9788573265439",
+    "publisher": "Editora 34",
+    "tags": [
+      "Classics",
+      "General",
+      "Fiction",
+      "libib"
+    ],
+    "title": "Mem\u00f3rias de um Ca\u00e7ador"
+  },
+  {
+    "*cdd": "891.73",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Leo Tolstoy",
+    "id": 107,
+    "isbn": "9788573263596",
+    "publisher": "Editora 34",
+    "tags": [
+      "Classics",
+      "Philosophy",
+      "libib"
+    ],
+    "title": "A morte de Ivan Ilitch"
+  },
+  {
+    "*cdd": "891.73",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Fyodor Dostoevsky",
+    "id": 129,
+    "isbn": "9788573266467",
+    "publisher": "Editora 34",
+    "tags": [
+      "Classics",
+      "Philosophy",
+      "Crime",
+      "libib"
+    ],
+    "title": "Crime e Castigo"
+  },
+  {
+    "*cdd": "891.73",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Fyodor Dostoevsky",
+    "id": 130,
+    "isbn": "9786555250268",
+    "publisher": "34",
+    "tags": [
+      "Classics",
+      "Historical",
+      "Philosophy",
+      "libib"
+    ],
+    "title": "O Idiota"
+  },
+  {
+    "*cdd": "891.73",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Fiodor Dosto\u00efevski",
+    "id": 131,
+    "isbn": "9798573263052",
+    "publisher": "Editora 34",
+    "tags": [
+      "Classics",
+      "Philosophy",
+      "libib",
+      "Politics"
+    ],
+    "title": "Dem\u00f4nios, Os"
+  },
+  {
+    "*cdd": "891.73",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Fyodor Dostoevsky",
+    "id": 132,
+    "isbn": "9788573266108",
+    "publisher": "Editora 34",
+    "tags": [
+      "General",
+      "Fiction",
+      "libib"
+    ],
+    "title": "O Adolescente"
+  },
+  {
+    "*cdd": "891.73",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Fyodor Dostoevsky",
+    "id": 133,
+    "isbn": "9788573264111",
+    "publisher": "Editora 34",
+    "tags": [
+      "Classics",
+      "Philosophy",
+      "libib"
+    ],
+    "title": "Os Irm\u00e3os Karam\u00e1zov"
+  },
+  {
+    "*cdd": "891.73",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Fyodor Dostoevsky",
+    "id": 134,
+    "isbn": "9788573264104",
+    "publisher": "Editora 34",
+    "tags": [
+      "Classics",
+      "Philosophy",
+      "libib",
+      "Religion"
+    ],
+    "title": "Os Irm\u00e3os Karam\u00e1zov"
+  },
+  {
+    "*cdd": "891.73",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Fyodor Dostoevsky & Fi\u00f3dor Dostoyevski",
+    "id": 136,
+    "isbn": "9788573261851",
+    "publisher": "Editora 34",
+    "tags": [
+      "Classics",
+      "Philosophy",
+      "Psychology",
+      "libib"
+    ],
+    "title": "Mem\u00f3rias do Subsolo"
+  },
+  {
+    "*cdd": "891.73",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Lyudmila Ulitskaya & Liudmila Ul\u00edtskaia",
+    "id": 137,
+    "isbn": "9786555250831",
+    "publisher": "Editora 34",
+    "tags": [
+      "General",
+      "libib",
+      "Classics",
+      "Fiction",
+      "Contemporary"
+    ],
+    "title": "Meninas"
+  },
+  {
+    "*cdd": "891.73",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Fyodor Dostoevsky & Fi\u00f3dor Dostoyevski",
+    "id": 183,
+    "isbn": "9788573267310",
+    "publisher": "Editora 34",
+    "tags": [
+      "libib"
+    ],
+    "title": "Caixa Cinco Grandes Romances De Dostoi\u00e9vski"
+  },
+  {
+    "*cdd": "891.7",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Yevgeny Zamyatin",
+    "id": 154,
+    "isbn": "9786586064469",
+    "publisher": "Aleph",
+    "tags": [
+      "Classics",
+      "Fantasy",
+      "libib",
+      "Science Fiction"
+    ],
+    "title": "N\u00f3s"
+  },
+  {
+    "*cdd": "869.98",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Marques Rebelo",
+    "id": 185,
+    "isbn": "9788503010375",
+    "publisher": "Jos\u00e9 Olympio",
+    "tags": [
+      "libib"
+    ],
+    "title": "Cortina de ferro"
+  },
+  {
+    "*cdd": "869.93",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Rogerio Menezes",
+    "id": 166,
+    "isbn": "9788501083265",
+    "publisher": "Editora Record",
+    "tags": [
+      "libib"
+    ],
+    "title": "Um N\u00e1ufrago que Ri"
+  },
+  {
+    "*cdd": "869.93",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Marcelo Ferroni",
+    "id": 174,
+    "isbn": "9788535917482",
+    "publisher": "Companhia das Letras",
+    "tags": [
+      "Thrillers",
+      "General",
+      "Fiction",
+      "libib"
+    ],
+    "title": "Metodo Pratico De Guerrilha"
+  },
+  {
+    "*cdd": "869.4",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Lu\u00eds Fernando Ver\u00edssimo & Ana Maria Machado",
+    "id": 148,
+    "isbn": "9788573023510",
+    "publisher": "Objetiva",
+    "tags": [
+      "Humour",
+      "libib"
+    ],
+    "title": "Com\u00e9dias para se ler na escola"
+  },
+  {
+    "*cdd": "869.341",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Jos\u00e9 Saramago",
+    "id": 87,
+    "isbn": "9788571648494",
+    "publisher": "Companhia das Letras",
+    "tags": [
+      "Classics",
+      "Philosophy",
+      "libib",
+      "Fantasy"
+    ],
+    "title": "O conto da ilha desconhecida"
+  },
+  {
+    "*cdd": "869.3",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Jos\u00e9 Saramago",
+    "id": 24,
+    "isbn": "9788535930351",
+    "publisher": "Companhia das Letras",
+    "tags": [
+      "Classics",
+      "Politics",
+      "libib",
+      "Science Fiction"
+    ],
+    "title": "Ensaio sobre a lucidez"
+  },
+  {
+    "*cdd": "869.3",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Jo\u00e3o Ubaldo Ribeiro",
+    "id": 40,
+    "isbn": "9788556520753",
+    "publisher": "Alfaguara",
+    "tags": [
+      "Romance",
+      "libib"
+    ],
+    "title": "A Casa Dos Budas Ditosos"
+  },
+  {
+    "*cdd": "869.3",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Paulo Coelho",
+    "id": 78,
+    "isbn": "9788584390755",
+    "publisher": "Paralela",
+    "tags": [
+      "Psychology",
+      "libib",
+      "Classics",
+      "Philosophy",
+      "Contemporary",
+      "Romance"
+    ],
+    "title": "Veronika Decide Morrer"
+  },
+  {
+    "*cdd": "869",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Jo\u00e3o Guimar\u00e3es Rosa",
+    "id": 41,
+    "isbn": "9788535931983",
+    "publisher": "Companhia das Letras",
+    "tags": [
+      "Classics",
+      "Romance",
+      "libib"
+    ],
+    "title": "Grande Sert\u00e3o: Veredas"
+  },
+  {
+    "*cdd": "869",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Gil Vicente",
+    "id": 85,
+    "isbn": "9788538092193",
+    "publisher": "Principis",
+    "tags": [
+      "Classics",
+      "libib",
+      "Poetry"
+    ],
+    "title": "O Auto da Barca do Inferno e Outras Hist\u00f3rias"
+  },
+  {
+    "*cdd": "851",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Dante Alighieri",
+    "id": 123,
+    "isbn": "9786550970321",
+    "publisher": "Principis",
+    "tags": [
+      "Religion",
+      "Poetry",
+      "libib",
+      "Classics",
+      "Philosophy",
+      "Fantasy"
+    ],
+    "title": "A Divina Com\u00e9dia: Inferno"
+  },
+  {
+    "*cdd": "851",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Dante Alighieri",
+    "id": 124,
+    "isbn": "9786550970338",
+    "publisher": "Principis",
+    "tags": [
+      "Religion",
+      "Poetry",
+      "libib",
+      "Classics",
+      "Philosophy",
+      "Fantasy"
+    ],
+    "title": "A Divina Com\u00e9dia: Purgat\u00f3rio"
+  },
+  {
+    "*cdd": "851",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Dante Alighieri",
+    "id": 125,
+    "isbn": "9786550970345",
+    "publisher": "Principis",
+    "tags": [
+      "Religion",
+      "Poetry",
+      "libib",
+      "Classics",
+      "Philosophy",
+      "Fantasy"
+    ],
+    "title": "A Divina Com\u00e9dia: Para\u00edso"
+  },
+  {
+    "*cdd": "843.87",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Jules Verne",
+    "id": 93,
+    "isbn": "9788525408365",
+    "publisher": "L&PM Pocket",
+    "tags": [
+      "Adventure",
+      "libib",
+      "Science Fiction",
+      "Classics",
+      "Travel",
+      "Historical",
+      "Fantasy"
+    ],
+    "title": "A Volta ao Mundo em 80 Dias"
   },
   {
     "*cdd": "843",
@@ -48,17 +660,54 @@
     "title": "Os Miser\u00e1veis"
   },
   {
-    "*cdd": "342.7",
+    "*cdd": "843",
     "*cdd_class": "substring: unknown function",
     "*read": true,
-    "authors": "Jo\u00e3o Feres J\u00fanior & F\u00e1bio Kerche",
-    "id": 4,
-    "isbn": "9788569220503",
-    "publisher": "Contracorrente",
+    "authors": "Jean-Paul Sartre",
+    "id": 77,
+    "isbn": "9786556401386",
+    "publisher": "Nova Fronteira",
     "tags": [
+      "Classics",
+      "Philosophy",
       "libib"
     ],
-    "title": "Operacao Lava Jato E a Democracia Brasileira"
+    "title": "A N\u00e1usea"
+  },
+  {
+    "*cdd": "843",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Marquis de Sade",
+    "id": 104,
+    "isbn": "9788582850602",
+    "publisher": "Penguin - Companhia das Letras",
+    "tags": [
+      "Classics",
+      "Philosophy",
+      "libib",
+      "Horror"
+    ],
+    "title": "Os 120 Dias de Sodoma"
+  },
+  {
+    "*cdd": "839.823",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Jostein Gaarder",
+    "id": 23,
+    "isbn": "9788535921892",
+    "publisher": "Companhia das Letras",
+    "tags": [
+      "Mystery",
+      "libib",
+      "Classics",
+      "Philosophy",
+      "Young Adult",
+      "Contemporary",
+      "Fantasy"
+    ],
+    "title": "O Mundo de Sofia"
   },
   {
     "*cdd": "833.01",
@@ -113,154 +762,107 @@
     "title": "Odisseia"
   },
   {
+    "*cdd": "833",
     "*cdd_class": "substring: unknown function",
     "*read": true,
-    "authors": "Tsugumi Ohba",
-    "id": 8,
-    "isbn": "9788577876860",
-    "publisher": "Editora JBC",
-    "tags": [
-      "Mystery",
-      "Comics",
-      "Crime",
-      "Horror",
-      "Manga",
-      "libib",
-      "Thriller",
-      "Young Adult",
-      "Fantasy"
-    ],
-    "title": "Death Note: Black Edition, Volume 02"
-  },
-  {
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Tsugumi Ohba",
-    "id": 9,
-    "isbn": "9788577876853",
-    "publisher": "Editora JBC",
-    "tags": [
-      "Mystery",
-      "Comics",
-      "Horror",
-      "Manga",
-      "libib",
-      "Thriller",
-      "Young Adult",
-      "Fantasy"
-    ],
-    "title": "Death Note: Black Edition, Volume 01"
-  },
-  {
-    "*cdd": "940.54217082",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Svetlana Alexievich",
-    "id": 10,
-    "isbn": "9788535927436",
+    "authors": "Thomas Mann",
+    "id": 19,
+    "isbn": "9788535931709",
     "publisher": "Companhia das Letras",
     "tags": [
-      "Feminism",
-      "War",
-      "History",
+      "Classics",
       "libib"
     ],
-    "title": "A guerra n\u00e3o tem rosto de mulher"
+    "title": "O Eleito"
   },
   {
-    "*cdd": "741.5",
+    "*cdd": "833",
     "*cdd_class": "substring: unknown function",
     "*read": true,
-    "authors": "Frank Herbert & Brian Herbert & Kevin J. Anderson",
-    "id": 11,
-    "isbn": "9786555601183",
-    "publisher": "Intr\u00ednseca",
-    "tags": [
-      "Young Adult Fiction",
-      "General",
-      "Comics & Graphic Novels",
-      "libib",
-      "Science Fiction",
-      "Adaptations",
-      "Classics",
-      "Adult",
-      "Comics",
-      "Fantasy"
-    ],
-    "title": "Duna: Graphic Novel Volume 1"
-  },
-  {
-    "*cdd": "813.5",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Philip Roth",
-    "id": 12,
-    "isbn": "9788571648524",
+    "authors": "Thomas Mann",
+    "id": 158,
+    "isbn": "9788535926910",
     "publisher": "Companhia das Letras",
     "tags": [
       "Classics",
       "Historical",
       "libib"
     ],
-    "title": "Pastoral americana"
+    "title": "Os Buddenbrook: decad\u00eancia de uma fam\u00edlia"
   },
   {
+    "*cdd": "833",
     "*cdd_class": "substring: unknown function",
     "*read": false,
-    "authors": "Cristiano Zanin Martins & Valeska Teixeira Zanin Martins & Rafael Valim",
-    "id": 13,
-    "isbn": "9788569220190",
-    "publisher": "Contracorrente",
+    "authors": "Hermann Hesse",
+    "id": 187,
+    "isbn": "9786555873382",
     "tags": [
-      "libib"
+      "Literary Work"
     ],
-    "title": "O Caso Lula"
+    "title": "Demian"
   },
   {
-    "*cdd": "813",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Chuck Palahniuk",
-    "id": 14,
-    "isbn": "9788580444490",
-    "publisher": "Leya",
-    "tags": [
-      "General",
-      "Romance",
-      "Fiction",
-      "libib"
-    ],
-    "title": "Clube da Luta"
-  },
-  {
-    "*cdd": "370.15",
+    "*cdd": "833",
     "*cdd_class": "substring: unknown function",
     "*read": false,
-    "authors": "Giovanna Paesani",
-    "id": 15,
-    "isbn": "9788532648341",
-    "publisher": "Vozes",
+    "authors": "Hermann Hesse",
+    "id": 188,
+    "isbn": "9786555873368",
     "tags": [
-      "libib"
+      "Classics",
+      "Philosophy",
+      "Spirituality",
+      "Religion",
+      "Historical"
     ],
-    "title": "120 Jogos E Percursos De Psicomotricidade. Crian\u00e7as Em Movimento"
+    "title": "Sidarta"
   },
   {
-    "*cdd": "613.2",
+    "*cdd": "833",
     "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Marcelo Rossi",
-    "id": 16,
-    "isbn": "9788525061805",
-    "publisher": "Principium",
+    "*read": false,
+    "authors": "Hermann Hesse",
+    "id": 189,
+    "isbn": "9786555873375",
     "tags": [
-      "General",
-      "Eating Disorders & Body Image",
+      "Classics",
+      "Philosophy",
+      "Psychology"
+    ],
+    "title": "O Lobo da Estepe"
+  },
+  {
+    "*cdd": "828.99113",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Robert Louis Stevenson",
+    "id": 96,
+    "isbn": "9788594318121",
+    "publisher": "Principis",
+    "tags": [
+      "Mystery",
+      "Horror",
       "libib",
-      "Meditations",
-      "Self-Help"
+      "Science Fiction",
+      "Classics",
+      "Fantasy"
     ],
-    "title": "Ruah: Quebrando os paradigmas de que gordura \u00e9 sa\u00fade e magreza \u00e9 doen\u00e7a"
+    "title": "O M\u00e9dico e o Monstro"
+  },
+  {
+    "*cdd": "823.9",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "James Joyce",
+    "id": 2,
+    "isbn": "9789895621682",
+    "publisher": "Pandora's Box",
+    "tags": [
+      "Classics",
+      "libib"
+    ],
+    "title": "Ulysses"
   },
   {
     "*cdd": "823",
@@ -282,117 +884,311 @@
     "title": "O Hobbit"
   },
   {
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Jason Lutes",
-    "id": 18,
-    "isbn": "9788595710702",
-    "publisher": "Veneta",
-    "tags": [
-      "History",
-      "Politics",
-      "libib",
-      "Comics"
-    ],
-    "title": "Berlim"
-  },
-  {
-    "*cdd": "833",
+    "*cdd": "823",
     "*cdd_class": "substring: unknown function",
     "*read": true,
-    "authors": "Thomas Mann",
-    "id": 19,
-    "isbn": "9788535931709",
-    "publisher": "Companhia das Letras",
-    "tags": [
-      "Classics",
-      "libib"
-    ],
-    "title": "O Eleito"
-  },
-  {
-    "*cdd": "811",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Charles Bukowski",
-    "id": 20,
-    "isbn": "9788525434012",
-    "publisher": "L&PM",
-    "tags": [
-      "Classics",
-      "libib",
-      "Poetry"
-    ],
-    "title": "Queimando na \u00c1gua, Afogando-se na Chama - Cole\u00e7\u00e3o L&PM Pocket"
-  },
-  {
-    "*cdd": "500",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Carl Sagan & Ann Druyan",
-    "id": 21,
-    "isbn": "9788535911947",
-    "publisher": "Companhia das Letras",
-    "tags": [
-      "libib",
-      "Philosophy",
-      "Politics",
-      "Science",
-      "History"
-    ],
-    "title": "Bilh\u00f5es e Bilh\u00f5es: Reflex\u00f5es Sobre a Vida e a Morte na Virada do Mil\u00eanio"
-  },
-  {
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Ryuto",
-    "id": 22,
-    "isbn": "9798898633271",
-    "publisher": "Airship (Seven Seas)",
+    "authors": "J. R. R. Tolkien",
+    "id": 29,
+    "isbn": "9788595084377",
+    "publisher": "HarperCollins",
     "tags": [
       "Adventure",
-      "Manga",
       "libib",
       "Science Fiction",
-      "Science Fiction & Fantasy",
-      "Comics Graphic Novels & Manga"
-    ],
-    "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! (Light Novel) Vol. 14"
-  },
-  {
-    "*cdd": "839.823",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Jostein Gaarder",
-    "id": 23,
-    "isbn": "9788535921892",
-    "publisher": "Companhia das Letras",
-    "tags": [
-      "Mystery",
-      "libib",
       "Classics",
-      "Philosophy",
-      "Young Adult",
-      "Contemporary",
       "Fantasy"
     ],
-    "title": "O Mundo de Sofia"
+    "title": "O Silmarillion"
   },
   {
-    "*cdd": "869.3",
+    "*cdd": "823",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "George Orwell",
+    "id": 84,
+    "isbn": "9789895622689",
+    "publisher": "Principis",
+    "tags": [
+      "Fiction & Literature",
+      "libib",
+      "Science Fiction",
+      "Science Fiction & Fantasy"
+    ],
+    "title": "1984"
+  },
+  {
+    "*cdd": "823",
     "*cdd_class": "substring: unknown function",
     "*read": true,
-    "authors": "Jos\u00e9 Saramago",
-    "id": 24,
-    "isbn": "9788535930351",
-    "publisher": "Companhia das Letras",
+    "authors": "Agatha Christie",
+    "id": 88,
+    "isbn": "9788580415032",
+    "publisher": "L&PM",
+    "tags": [
+      "Mystery",
+      "Crime",
+      "libib",
+      "Thriller",
+      "Classics"
+    ],
+    "title": "Assassinato Na Casa Do Pastor"
+  },
+  {
+    "*cdd": "823",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Agatha Christie",
+    "id": 89,
+    "isbn": "9788525433442",
+    "publisher": "L&PM",
+    "tags": [
+      "Mystery",
+      "Crime",
+      "libib",
+      "Thriller",
+      "Classics"
+    ],
+    "title": "Convite para um homic\u00eddio"
+  },
+  {
+    "*cdd": "823",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Mary Wollstonecraft Shelley",
+    "id": 115,
+    "isbn": "9788582850190",
+    "publisher": "Penguin Companhia",
+    "tags": [
+      "Horror",
+      "libib",
+      "Science Fiction",
+      "Classics",
+      "Fantasy"
+    ],
+    "title": "Frankenstein ou o Prometeu Moderno"
+  },
+  {
+    "*cdd": "823",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Agatha Christie",
+    "id": 141,
+    "isbn": "9788525438157",
+    "publisher": "L&PM",
+    "tags": [
+      "Mystery",
+      "Crime",
+      "libib",
+      "Thriller",
+      "Classics"
+    ],
+    "title": "Morte no Nilo"
+  },
+  {
+    "*cdd": "823",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Joseph Conrad",
+    "id": 145,
+    "isbn": "9788535912500",
+    "publisher": "Companhia de Bolso",
     "tags": [
       "Classics",
-      "Politics",
+      "Historical",
       "libib",
-      "Science Fiction"
+      "Adventure"
     ],
-    "title": "Ensaio sobre a lucidez"
+    "title": "Cora\u00e7\u00e3o das Trevas"
+  },
+  {
+    "*cdd": "823",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Anthony Burgess",
+    "id": 157,
+    "isbn": "9788576574460",
+    "publisher": "Editora Aleph",
+    "tags": [
+      "Crime",
+      "Horror",
+      "libib",
+      "Science Fiction",
+      "Classics"
+    ],
+    "title": "Laranja Mec\u00e2nica"
+  },
+  {
+    "*cdd": "823",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "James Meek",
+    "id": 184,
+    "isbn": "9788501082312",
+    "publisher": "Record",
+    "tags": [
+      "Contemporary",
+      "libib"
+    ],
+    "title": "Estamos Come\u00e7ando Nossa Descida"
+  },
+  {
+    "*cdd": "823",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Wilhelm Hauff & Charles Dickens & Mark Twain & Harriet Beecher Stowe & Adelbert von Chamisso & Oscar Wilde & Robert Louis Stevenson & Edgar Allan Poe & William Hope Hodgson & Joseph Sheridan le Fanu & John Buchan & Louis Tracy & Bram Stoker & Anatole France & Charlotte Bront\u00eb & Emily Bront\u00eb & Jack London & Henry James & Th\u00e9ophile Gautier & Arthur Conan Doyle & Richard le Gallienne & Jane Austen & Algernon Blackwood & Ralph Adams Cram & Thomas de Quincey & John Meade Falkner & Guy de Maupassant & Thomas Hardy & William Archer & Daniel Defoe & John Kendrick Bangs & Cleveland Moffett & Brander Matthews & Marie Belloc Lowndes & Sax Rohmer & Horace Walpole & Rudyard Kipling & Lafcadio Hearn & Ambrose Bierce & Frederick Marryat & Ellis Parker Butler & Washington Irving & Leonid Andreyev & David Lindsay & Nathaniel Hawthorne & Grant Allen & Arthur Machen & Wilkie Collins & William Makepeace Thackeray & Thomas Peckett Prest & James Malcolm Rymer & Fergus Hume & Edward Bellamy & Walter Hubbell & S. Mukerji & Charlotte Perkins Gilman & Leopold Kompert & Richard Marsh & Florence Marryat & Catherine Crowe & Marjorie Bowen & John William Polidori & Vincent O'Sullivan & H. G. Wells & Robert W. Chambers & W. W. Jacobs & M. P. Shiel & E. F. Benson & Jerome K. Jerome & M. R. James & E. T. A. Hoffmann & George W. M. Reynolds & H. P. Lovecraft & Robert E. Howard & Edith Nesbit & Sabine Baring-Gould & William Thomas Beckford & Francis Marion Crawford & Mary Elizabeth Braddon & Mary Louisa Molesworth & Mary E. Wilkins Freeman & Nikolai Gogol & Mary Shelley & Elizabeth Gaskell & Gertrude Atherton & Edward Bulwer-Lytton & Frank R. Stockton & A. T. Quiller-Couch & Olivia Howard Dunbar & Ann Radcliffe & Louisa M. Alcott & Amelia B. Edwards & Leonard Kip & Matthew Gregory Lewis & Fitz-James O'Brien & Katherine Rickford & Bithia Mary Croker & Catherine L. Pirkis & \u00c9mile Erckmann & Alexandre Chatrian & Pedro de Alar\u00e7on & J. K. Huysmans & H. H. Munro (saki) & Pliny The Younger & Helena Blavatsky & Villiers de L'Isle Adam & William F. Harvey & Fiona Macleod & William T. Stead & Gambier Bolton & Andrew Jackson Davis & Nizida & Walter F. Prince & Chester Bailey Fernando",
+    "id": 186,
+    "isbn": "8596547794035",
+    "publisher": "Good Press",
+    "tags": [
+      "Fiction & Literature",
+      "Horror",
+      "Anthologies"
+    ],
+    "title": "Horror Anthology"
+  },
+  {
+    "*cdd": "823",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Agatha Christie",
+    "id": 193,
+    "isbn": "9786555652277",
+    "publisher": "L&PM",
+    "tags": [
+      "Mystery",
+      "Crime",
+      "Classics",
+      "Thriller"
+    ],
+    "title": "Noite sem Fim"
+  },
+  {
+    "*cdd": "823",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Agatha Christie",
+    "id": 194,
+    "isbn": "9789895620579",
+    "publisher": "Pandora's Box",
+    "tags": [
+      "Greek & Roman",
+      "Mystery & Suspense",
+      "Fiction & Literature",
+      "Drama"
+    ],
+    "title": "The Agatha Christie Collection"
+  },
+  {
+    "*cdd": "823",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Agatha Christie",
+    "id": 195,
+    "isbn": "9789895624416",
+    "publisher": "Pandora's Box",
+    "tags": [
+      "Traditional British",
+      "Drama",
+      "Entertainment",
+      "Anthologies",
+      "Nonfiction",
+      "Mystery & Suspense"
+    ],
+    "title": "The Big Four: A Hercule Poirot Mystery (Hercule Poirot series Book 5)"
+  },
+  {
+    "*cdd": "823",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Agatha Christie",
+    "id": 196,
+    "isbn": "9788520923627",
+    "publisher": "Nova Fronteira",
+    "tags": [
+      "Mystery",
+      "Crime",
+      "Classics",
+      "Thriller"
+    ],
+    "title": "Cai o pano"
+  },
+  {
+    "*cdd": "823",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Heather Morris",
+    "id": 197,
+    "isbn": "9788542219067",
+    "publisher": "Planeta",
+    "tags": [
+      "Historical",
+      "War",
+      "Adult"
+    ],
+    "title": "A viagem de Cilka"
+  },
+  {
+    "*cdd": "823",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Heather Morris",
+    "id": 198,
+    "isbn": "9780062797162",
+    "publisher": "HarperCollins",
+    "tags": [
+      "Fiction & Literature",
+      "Literary",
+      "Cultural Heritage"
+    ],
+    "title": "The Tattooist of Auschwitz"
+  },
+  {
+    "*cdd": "823",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Agatha Christie",
+    "id": 209,
+    "isbn": "9788520934807",
+    "publisher": "Nova Fronteira",
+    "tags": [
+      "Mystery",
+      "Crime",
+      "Classics",
+      "Thriller"
+    ],
+    "title": "Morte na Mesopot\u00e2mia"
+  },
+  {
+    "*cdd": "823",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Agatha Christie",
+    "id": 211,
+    "isbn": "9789895620579",
+    "publisher": "Pandora's Box",
+    "tags": [
+      "Drama",
+      "Mystery & Suspense",
+      "Fiction & Literature",
+      "Greek & Roman"
+    ],
+    "title": "The Agatha Christie Collection"
+  },
+  {
+    "*cdd": "823",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Agatha Christie",
+    "id": 212,
+    "isbn": "9786555651744",
+    "publisher": "L&PM",
+    "tags": [
+      "Mystery",
+      "Classics",
+      "Crime",
+      "Thriller"
+    ],
+    "title": "A Casa Torta"
   },
   {
     "*cdd": "820",
@@ -464,13 +1260,31 @@
     "title": "A Queda de N\u00famenor: e outros contos da Segunda Era da Terra-m\u00e9dia"
   },
   {
-    "*cdd": "823",
+    "*cdd": "820",
     "*cdd_class": "substring: unknown function",
     "*read": true,
     "authors": "J. R. R. Tolkien",
-    "id": 29,
-    "isbn": "9788595084377",
+    "id": 108,
+    "isbn": "9788595084759",
     "publisher": "HarperCollins",
+    "tags": [
+      "Adventure",
+      "libib",
+      "Science Fiction",
+      "Classics",
+      "Young Adult",
+      "Fantasy"
+    ],
+    "title": "A sociedade do anel"
+  },
+  {
+    "*cdd": "820",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "J. R. R. Tolkien",
+    "id": 109,
+    "isbn": "9788595084766",
+    "publisher": "HarperCollins Brasil",
     "tags": [
       "Adventure",
       "libib",
@@ -478,297 +1292,42 @@
       "Classics",
       "Fantasy"
     ],
-    "title": "O Silmarillion"
+    "title": "As Duas Torres"
   },
   {
-    "*cdd": "356.66",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Drauzio Varella",
-    "id": 30,
-    "isbn": "9788535929041",
-    "publisher": "Companhia das Letras",
-    "tags": [
-      "Non-Fiction",
-      "libib"
-    ],
-    "title": "Prisioneiras"
-  },
-  {
-    "*cdd": "895.13",
+    "*cdd": "820",
     "*cdd_class": "substring: unknown function",
     "*read": true,
-    "authors": "Mo Yan",
-    "id": 31,
-    "isbn": "9788535926347",
-    "publisher": "Companhia das Letras",
+    "authors": "J. R. R. Tolkien",
+    "id": 110,
+    "isbn": "9788595084773",
+    "publisher": "HarperCollins Brasil",
     "tags": [
-      "Contemporary",
-      "Historical",
-      "libib"
-    ],
-    "title": "As R\u00e3s"
-  },
-  {
-    "*cdd": "741.5973",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Art Spiegelman",
-    "id": 32,
-    "isbn": "9788535906288",
-    "publisher": "Quadrinhos na Cia.",
-    "tags": [
-      "Biography",
-      "War",
+      "Adventure",
       "libib",
+      "Science Fiction",
       "Classics",
-      "Comics",
-      "History"
-    ],
-    "title": "Maus: A Hist\u00f3ria de um Sobrevivente"
-  },
-  {
-    "*cdd": "153.42",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Daniel Kahneman",
-    "id": 33,
-    "isbn": "9788539003839",
-    "publisher": "Objetiva",
-    "tags": [
-      "Psychology",
-      "libib",
-      "Self Help",
-      "Business",
-      "Philosophy",
-      "Science"
-    ],
-    "title": "R\u00e1pido e Devagar: Duas Formas de Pensar"
-  },
-  {
-    "*cdd": "003.7",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Steven Jonhson",
-    "id": 34,
-    "isbn": "9788571107397",
-    "publisher": "Zahar",
-    "tags": [
-      "Information Theory",
-      "libib",
-      "Computers"
-    ],
-    "title": "Emerg\u00eancia"
-  },
-  {
-    "*cdd": "813.6",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Brandon Sanderson",
-    "id": 35,
-    "isbn": "9781429960304",
-    "publisher": "Tor Books",
-    "tags": [
-      "Epic Fantasy",
-      "Epic",
-      "Action & Adventure",
-      "libib",
-      "Science Fiction & Fantasy",
-      "Fiction",
       "Fantasy"
     ],
-    "title": "The Hero of Ages"
+    "title": "O Retorno do Rei"
   },
   {
-    "*cdd": "813.6",
+    "*cdd": "820",
     "*cdd_class": "substring: unknown function",
     "*read": true,
-    "authors": "Brandon Sanderson",
-    "id": 36,
-    "isbn": "9781250318541",
-    "publisher": "Tor Publishing Group",
+    "authors": "J. R. R. Tolkien",
+    "id": 182,
+    "isbn": "9788595086357",
+    "publisher": "HarperCollins Brasil",
     "tags": [
-      "Literary Work",
-      "Epic",
-      "Action & Adventure",
+      "Adventure",
       "libib",
-      "Fiction",
+      "Science Fiction",
+      "Classics",
+      "Young Adult",
       "Fantasy"
     ],
-    "title": "Mistborn: The Final Empire"
-  },
-  {
-    "*cdd": "813",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Taylor Jenkins Reid",
-    "id": 37,
-    "isbn": "9788584391509",
-    "publisher": "Paralela",
-    "tags": [
-      "libib",
-      "Adult",
-      "Contemporary",
-      "Historical",
-      "Romance"
-    ],
-    "title": "Os sete maridos de Evelyn Hugo"
-  },
-  {
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Christian Dunker",
-    "id": 38,
-    "isbn": "9786599119491",
-    "publisher": "Editora Contracorrente",
-    "tags": [
-      "libib"
-    ],
-    "title": "Paix\u00e3o da ignor\u00e2ncia: a escuta entre psican\u00e1lise e educa\u00e7\u00e3o"
-  },
-  {
-    "*cdd": "530.12",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Stephen W. Hawking",
-    "id": 39,
-    "isbn": "9788580578881",
-    "publisher": "Intr\u00ednseca",
-    "tags": [
-      "General",
-      "libib",
-      "Philosophy",
-      "Science",
-      "History",
-      "Physics"
-    ],
-    "title": "O Universo Numa Casca de Noz"
-  },
-  {
-    "*cdd": "869.3",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Jo\u00e3o Ubaldo Ribeiro",
-    "id": 40,
-    "isbn": "9788556520753",
-    "publisher": "Alfaguara",
-    "tags": [
-      "Romance",
-      "libib"
-    ],
-    "title": "A Casa Dos Budas Ditosos"
-  },
-  {
-    "*cdd": "869",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Jo\u00e3o Guimar\u00e3es Rosa",
-    "id": 41,
-    "isbn": "9788535931983",
-    "publisher": "Companhia das Letras",
-    "tags": [
-      "Classics",
-      "Romance",
-      "libib"
-    ],
-    "title": "Grande Sert\u00e3o: Veredas"
-  },
-  {
-    "*cdd": "304.2",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Ailton Krenak",
-    "id": 42,
-    "isbn": "9788535933581",
-    "publisher": "Companhia das Letras",
-    "tags": [
-      "Philosophy",
-      "libib",
-      "Politics"
-    ],
-    "title": "Ideias Para Adiar O Fim Do Mundo"
-  },
-  {
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Ana Maria Gon\u00e7alves",
-    "id": 43,
-    "isbn": "9788501071750",
-    "publisher": "Record",
-    "tags": [
-      "Literary Work",
-      "libib"
-    ],
-    "title": "Um Defeito de Cor"
-  },
-  {
-    "*cdd": "305.896",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Malcolm X",
-    "id": 44,
-    "isbn": "9786586497533",
-    "publisher": "Ubu Editora",
-    "tags": [
-      "Biography",
-      "libib",
-      "Philosophy",
-      "Politics",
-      "History"
-    ],
-    "title": "Malcolm X Fala"
-  },
-  {
-    "*cdd": "248.4",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "C. S. Lewis",
-    "id": 45,
-    "isbn": "9788566997811",
-    "publisher": "Thomas Nelson Brasil",
-    "tags": [
-      "libib",
-      "Classics",
-      "Spirituality",
-      "Philosophy",
-      "Religion"
-    ],
-    "title": "Cristianismo Puro E Simples"
-  },
-  {
-    "*cdd": "305.5122",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Isabel Wilkerson",
-    "id": 46,
-    "isbn": "9788537819142",
-    "publisher": "Zahar",
-    "tags": [
-      "History",
-      "Sociology",
-      "libib",
-      "Politics"
-    ],
-    "title": "Casta: As Origens de Nosso Mal-Estar"
-  },
-  {
-    "*cdd": "813",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Christina Dalcher",
-    "id": 47,
-    "isbn": "9780440000822",
-    "publisher": "Arqueiro",
-    "tags": [
-      "Psychological",
-      "Dystopian",
-      "Fiction & Literature",
-      "Contemporary Women",
-      "libib",
-      "Thrillers",
-      "Fiction"
-    ],
-    "title": "Vox"
+    "title": "O Senhor dos An\u00e9is"
   },
   {
     "*cdd": "819.3",
@@ -811,38 +1370,41 @@
     "title": "O Conto da Aia"
   },
   {
-    "*cdd": "155.633",
+    "*cdd": "813.6",
     "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Clarissa Pinkola Est\u00e9s",
-    "id": 50,
-    "isbn": "9788532529787",
-    "publisher": "Rocco",
-    "tags": [
-      "Feminism",
-      "Self Help",
-      "Psychology",
-      "libib",
-      "Spirituality",
-      "Philosophy"
-    ],
-    "title": "Mulheres que correm com os lobos: Mitos e hist\u00f3rias do arqu\u00e9tipo da mulher selvagem"
-  },
-  {
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
+    "*read": true,
     "authors": "Brandon Sanderson",
-    "id": 51,
-    "isbn": "9786589132684",
-    "publisher": "Trama",
+    "id": 35,
+    "isbn": "9781429960304",
+    "publisher": "Tor Books",
     "tags": [
-      "Adventure",
+      "Epic Fantasy",
+      "Epic",
+      "Action & Adventure",
       "libib",
-      "Science Fiction",
-      "Adult",
+      "Science Fiction & Fantasy",
+      "Fiction",
       "Fantasy"
     ],
-    "title": "O Caminho dos Reis"
+    "title": "The Hero of Ages"
+  },
+  {
+    "*cdd": "813.6",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Brandon Sanderson",
+    "id": 36,
+    "isbn": "9781250318541",
+    "publisher": "Tor Publishing Group",
+    "tags": [
+      "Literary Work",
+      "Epic",
+      "Action & Adventure",
+      "libib",
+      "Fiction",
+      "Fantasy"
+    ],
+    "title": "Mistborn: The Final Empire"
   },
   {
     "*cdd": "813.6",
@@ -886,79 +1448,491 @@
     "title": "Words of Radiance"
   },
   {
-    "*cdd": "782.4216490981",
+    "*cdd": "813.6",
     "*cdd_class": "substring: unknown function",
     "*read": true,
-    "authors": "Racionais Mc's",
-    "id": 54,
-    "isbn": "9788535931730",
-    "publisher": "Companhia das Letras",
+    "authors": "Brandon Sanderson",
+    "id": 144,
+    "isbn": "9781429961813",
+    "publisher": "Tor Fantasy",
     "tags": [
-      "Biography",
-      "Music",
+      "Epic Fantasy",
+      "Epic",
+      "Action & Adventure",
       "libib",
-      "Poetry"
+      "Science Fiction & Fantasy",
+      "Fiction",
+      "Fantasy"
     ],
-    "title": "Sobrevivendo no inferno"
+    "title": "The Well of Ascension"
   },
   {
-    "*cdd": "370.152",
+    "*cdd": "813.6",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Brandon Sanderson",
+    "id": 167,
+    "isbn": "9781429952040",
+    "publisher": "Tor Books",
+    "tags": [
+      "Literary Work",
+      "Epic",
+      "Military",
+      "Action & Adventure",
+      "libib",
+      "Fiction",
+      "Fantasy"
+    ],
+    "title": "Rhythm of War"
+  },
+  {
+    "*cdd": "813.6",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Unknown Author",
+    "id": 169,
+    "isbn": "9786556090672",
+    "publisher": "Editora",
+    "tags": [
+      "Hard Science Fiction",
+      "General",
+      "Childrens",
+      "libib",
+      "Science Fiction",
+      "Action & Adventure",
+      "Fiction",
+      "Fantasy"
+    ],
+    "title": "Star Wars: The Mandalorian"
+  },
+  {
+    "*cdd": "813.54",
     "*cdd_class": "substring: unknown function",
     "*read": true,
-    "authors": "Pierluigi Piazzi",
-    "id": 55,
-    "isbn": "9788576570608",
-    "publisher": "Aleph",
+    "authors": "George Lucas & Donald F. Glut & James Kahn",
+    "id": 170,
+    "isbn": "9788566636260",
+    "publisher": "DarkSide Books",
     "tags": [
-      "Non-Fiction",
-      "libib"
+      "Adventure",
+      "libib",
+      "Science Fiction",
+      "Classics",
+      "Fantasy"
     ],
-    "title": "Aprendendo Intelig\u00eancia: Manual de Instru\u00e7\u00f5es do C\u00e9rebro para Alunos em Geral"
+    "title": "Star Wars: A Trilogia"
   },
   {
-    "*cdd": "610.92",
+    "*cdd": "813.5",
     "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Drauzio Varella",
-    "id": 56,
-    "isbn": "9788535921694",
+    "*read": true,
+    "authors": "Philip Roth",
+    "id": 12,
+    "isbn": "9788571648524",
     "publisher": "Companhia das Letras",
-    "tags": [
-      "Non-Fiction",
-      "libib"
-    ],
-    "title": "Carcereiros"
-  },
-  {
-    "*cdd": "981.04",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Joaquim Nabuco",
-    "id": 57,
-    "isbn": "9786556662398",
     "tags": [
       "Classics",
-      "History",
-      "libib",
-      "Sociology"
-    ],
-    "title": "O Abolicionismo"
-  },
-  {
-    "*cdd": "335.412",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Ben Fine & Alfredo Saad Filho",
-    "id": 58,
-    "isbn": "9786588470268",
-    "publisher": "Editora Contracorrente",
-    "tags": [
-      "Philosophy",
-      "Non-Fiction",
-      "Politics",
+      "Historical",
       "libib"
     ],
-    "title": "\"O Capital\" de Marx"
+    "title": "Pastoral americana"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Brandon Sanderson",
+    "id": 101,
+    "isbn": "9788576573791",
+    "publisher": "Aleph",
+    "tags": [
+      "Young Adult",
+      "Fantasy",
+      "libib",
+      "Science Fiction"
+    ],
+    "title": "Tormenta de Fogo"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Isaac Asimov",
+    "id": 111,
+    "isbn": "9788576574538",
+    "publisher": "Editora Aleph",
+    "tags": [
+      "Mystery",
+      "Crime",
+      "libib",
+      "Science Fiction",
+      "Classics",
+      "Fantasy"
+    ],
+    "title": "As Cavernas de A\u00e7o"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Isaac Asimov",
+    "id": 112,
+    "isbn": "9788576574590",
+    "publisher": "Aleph",
+    "tags": [
+      "Mystery",
+      "Crime",
+      "libib",
+      "Science Fiction",
+      "Classics",
+      "Fantasy"
+    ],
+    "title": "O Sol Desvelado"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Isaac Asimov",
+    "id": 113,
+    "isbn": "9788576574606",
+    "publisher": "Editora Aleph",
+    "tags": [
+      "Mystery",
+      "libib",
+      "Science Fiction",
+      "Classics",
+      "Fantasy"
+    ],
+    "title": "Os Rob\u00f4s da Alvorada"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Isaac Asimov",
+    "id": 114,
+    "isbn": "9788576573197",
+    "publisher": "Aleph",
+    "tags": [
+      "Mystery",
+      "libib",
+      "Science Fiction",
+      "Classics",
+      "Fantasy"
+    ],
+    "title": "Rob\u00f4s e Imp\u00e9rio"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Isaac Asimov",
+    "id": 118,
+    "isbn": "9788576574835",
+    "publisher": "Editora Aleph",
+    "tags": [
+      "Classics",
+      "Science Fiction",
+      "libib",
+      "Fantasy"
+    ],
+    "title": "Funda\u00e7\u00e3o"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Isaac Asimov",
+    "id": 119,
+    "isbn": "9788576574842",
+    "publisher": "Editora Aleph",
+    "tags": [
+      "Classics",
+      "Science Fiction",
+      "libib",
+      "Fantasy"
+    ],
+    "title": "Funda\u00e7\u00e3o e Imp\u00e9rio"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Isaac Asimov",
+    "id": 120,
+    "isbn": "9788576574859",
+    "publisher": "Editora Aleph",
+    "tags": [
+      "Classics",
+      "Science Fiction",
+      "libib",
+      "Fantasy"
+    ],
+    "title": "Segunda Funda\u00e7\u00e3o"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Frank Herbert",
+    "id": 126,
+    "isbn": "9788576572626",
+    "publisher": "Aleph",
+    "tags": [
+      "libib",
+      "Science Fiction",
+      "Classics",
+      "Philosophy",
+      "Fantasy"
+    ],
+    "title": "Imperador Deus de Duna"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Frank Herbert",
+    "id": 127,
+    "isbn": "9788576574026",
+    "publisher": "Aleph",
+    "tags": [
+      "Classics",
+      "Science Fiction",
+      "libib",
+      "Fantasy"
+    ],
+    "title": "Hereges de Duna"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Frank Herbert",
+    "id": 128,
+    "isbn": "9786586064254",
+    "publisher": "Aleph",
+    "tags": [
+      "Adventure",
+      "libib",
+      "Science Fiction",
+      "Classics",
+      "Fantasy"
+    ],
+    "title": "As Herdeiras de Duna"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Brandon Sanderson",
+    "id": 135,
+    "isbn": "9788576573463",
+    "publisher": "Editora Aleph",
+    "tags": [
+      "Young Adult",
+      "Fantasy",
+      "libib",
+      "Science Fiction"
+    ],
+    "title": "Cora\u00e7\u00e3o de A\u00e7o"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Frank Herbert",
+    "id": 138,
+    "isbn": "9788576573135",
+    "publisher": "Aleph",
+    "tags": [
+      "Fantasy",
+      "Classics",
+      "libib",
+      "Science Fiction"
+    ],
+    "title": "Duna"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Frank Herbert",
+    "id": 142,
+    "isbn": "9788576573821",
+    "publisher": "Editora Aleph",
+    "tags": [
+      "Classics",
+      "Science Fiction",
+      "libib",
+      "Fantasy"
+    ],
+    "title": "Messias de Duna"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Frank Herbert",
+    "id": 143,
+    "isbn": "9788576573142",
+    "publisher": "Aleph",
+    "tags": [
+      "Classics",
+      "Science Fiction",
+      "libib",
+      "Fantasy"
+    ],
+    "title": "Filhos de Duna"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Isaac Asimov",
+    "id": 150,
+    "isbn": "9788576572008",
+    "publisher": "Aleph",
+    "tags": [
+      "Classics",
+      "Science Fiction",
+      "libib",
+      "Fantasy"
+    ],
+    "title": "Eu, Rob\u00f4"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Daniel Keyes",
+    "id": 151,
+    "isbn": "9788576573937",
+    "publisher": "Aleph",
+    "tags": [
+      "Psychology",
+      "libib",
+      "Science Fiction",
+      "Classics",
+      "Young Adult"
+    ],
+    "title": "Flores para Algernon"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Philip K. Dick",
+    "id": 155,
+    "isbn": "9780547728247",
+    "publisher": "Editora Aleph",
+    "tags": [
+      "Mystery",
+      "Literary Work",
+      "libib",
+      "Science Fiction",
+      "Classics",
+      "Fantasy"
+    ],
+    "title": "Ubik"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Philip K. Dick",
+    "id": 156,
+    "isbn": "9788576574415",
+    "publisher": "Aleph",
+    "tags": [
+      "libib",
+      "Science Fiction",
+      "Classics",
+      "Historical",
+      "Fantasy"
+    ],
+    "title": "O homem do castelo alto"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Brandon Sanderson",
+    "id": 178,
+    "isbn": "9788576574033",
+    "publisher": "Aleph",
+    "tags": [
+      "Fantasy",
+      "libib",
+      "Science Fiction",
+      "Young Adult"
+    ],
+    "title": "Calamidade"
+  },
+  {
+    "*cdd": "813.0876",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Isaac Asimov",
+    "id": 181,
+    "isbn": "9788576575016",
+    "publisher": "SIRGAWAIN",
+    "tags": [
+      "libib"
+    ],
+    "title": "Box S\u00e9rie dos rob\u00f4s"
+  },
+  {
+    "*cdd": "813",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Chuck Palahniuk",
+    "id": 14,
+    "isbn": "9788580444490",
+    "publisher": "Leya",
+    "tags": [
+      "General",
+      "Romance",
+      "Fiction",
+      "libib"
+    ],
+    "title": "Clube da Luta"
+  },
+  {
+    "*cdd": "813",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Taylor Jenkins Reid",
+    "id": 37,
+    "isbn": "9788584391509",
+    "publisher": "Paralela",
+    "tags": [
+      "libib",
+      "Adult",
+      "Contemporary",
+      "Historical",
+      "Romance"
+    ],
+    "title": "Os sete maridos de Evelyn Hugo"
+  },
+  {
+    "*cdd": "813",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Christina Dalcher",
+    "id": 47,
+    "isbn": "9780440000822",
+    "publisher": "Arqueiro",
+    "tags": [
+      "Psychological",
+      "Dystopian",
+      "Fiction & Literature",
+      "Contemporary Women",
+      "libib",
+      "Thrillers",
+      "Fiction"
+    ],
+    "title": "Vox"
   },
   {
     "*cdd": "813",
@@ -975,22 +1949,6 @@
       "libib"
     ],
     "title": "A Cor P\u00farpura"
-  },
-  {
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Joe Sacco",
-    "id": 60,
-    "isbn": "9786586691405",
-    "publisher": "Veneta",
-    "tags": [
-      "War",
-      "libib",
-      "Politics",
-      "Comics",
-      "History"
-    ],
-    "title": "Palestina"
   },
   {
     "*cdd": "813",
@@ -1092,38 +2050,6 @@
     "title": "A f\u00faria dos reis"
   },
   {
-    "*cdd": "895.13",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Chen Zhongshi",
-    "id": 67,
-    "isbn": "9788574483047",
-    "publisher": "Esta\u00e7\u00e3o Liberdade",
-    "tags": [
-      "Classics",
-      "Historical",
-      "libib"
-    ],
-    "title": "Na Terra do Cervo Branco"
-  },
-  {
-    "*cdd": "895.13",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Liu Cixin",
-    "id": 68,
-    "isbn": "9788556510501",
-    "publisher": "Suma",
-    "tags": [
-      "libib",
-      "Science Fiction",
-      "Fiction",
-      "Alien Contact",
-      "Fantasy"
-    ],
-    "title": "A floresta sombria"
-  },
-  {
     "*cdd": "813",
     "*cdd_class": "substring: unknown function",
     "*read": true,
@@ -1182,1465 +2108,6 @@
     "title": "O Aprendiz de Assassino"
   },
   {
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Tsugumi Ohba",
-    "id": 72,
-    "isbn": "9788577877669",
-    "publisher": "Editora JBC",
-    "tags": [
-      "Mystery",
-      "Crime",
-      "Paranormal",
-      "Horror",
-      "Manga",
-      "libib",
-      "Thriller",
-      "Comics",
-      "Fantasy"
-    ],
-    "title": "Death Note: Black Edition, Volume 06"
-  },
-  {
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Tsugumi Ohba",
-    "id": 73,
-    "isbn": "9788577877478",
-    "publisher": "Editora JBC",
-    "tags": [
-      "Mystery",
-      "Comics",
-      "Crime",
-      "Horror",
-      "Manga",
-      "libib",
-      "Thriller",
-      "Young Adult",
-      "Fantasy"
-    ],
-    "title": "Death Note: Black Edition, Volume 05"
-  },
-  {
-    "*cdd": "520",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Carl Sagan",
-    "id": 74,
-    "isbn": "9780307800985",
-    "publisher": "Companhia das Letras",
-    "tags": [
-      "Literary Work",
-      "libib",
-      "Classics",
-      "Philosophy",
-      "Science",
-      "History"
-    ],
-    "title": "Cosmos"
-  },
-  {
-    "*cdd": "363.179909477622",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Svetlana Alexievich",
-    "id": 75,
-    "isbn": "9788535927085",
-    "publisher": "Companhia das Letras",
-    "tags": [
-      "History",
-      "libib",
-      "Politics",
-      "Science"
-    ],
-    "title": "Vozes de Tchern\u00f3bil: A Hist\u00f3ria Oral do Desastre Nuclear"
-  },
-  {
-    "*cdd": "301.04",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Zygmunt Bauman",
-    "id": 76,
-    "isbn": "9786559790005",
-    "publisher": "Zahar",
-    "tags": [
-      "Sociology",
-      "Non-Fiction",
-      "libib",
-      "Philosophy",
-      "Politics"
-    ],
-    "title": "Modernidade l\u00edquida"
-  },
-  {
-    "*cdd": "843",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Jean-Paul Sartre",
-    "id": 77,
-    "isbn": "9786556401386",
-    "publisher": "Nova Fronteira",
-    "tags": [
-      "Classics",
-      "Philosophy",
-      "libib"
-    ],
-    "title": "A N\u00e1usea"
-  },
-  {
-    "*cdd": "869.3",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Paulo Coelho",
-    "id": 78,
-    "isbn": "9788584390755",
-    "publisher": "Paralela",
-    "tags": [
-      "Psychology",
-      "libib",
-      "Classics",
-      "Philosophy",
-      "Contemporary",
-      "Romance"
-    ],
-    "title": "Veronika Decide Morrer"
-  },
-  {
-    "*cdd": "305",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Aim\u00e9 C\u00e9saire",
-    "id": 79,
-    "isbn": "9788595710689",
-    "publisher": "Veneta",
-    "tags": [
-      "Sociology",
-      "libib",
-      "Philosophy",
-      "Politics",
-      "History"
-    ],
-    "title": "Discurso sobre o Colonialismo"
-  },
-  {
-    "*cdd": "811",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Ivo Barroso",
-    "id": 80,
-    "isbn": "9788580442571",
-    "publisher": "Leya",
-    "tags": [
-      "Literary",
-      "Fiction",
-      "libib"
-    ],
-    "title": "O Corvo e Suas Tradu\u00e7\u00f5es"
-  },
-  {
-    "*cdd": "100",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Matthew Chrisman",
-    "id": 81,
-    "isbn": "9788525438591",
-    "publisher": "L&PM",
-    "tags": [
-      "Philosophy",
-      "libib",
-      "Science"
-    ],
-    "title": "Filosofia para todos"
-  },
-  {
-    "*cdd": "190",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Nigel Warburton",
-    "id": 82,
-    "isbn": "9788525426505",
-    "publisher": "L&PM",
-    "tags": [
-      "History",
-      "Philosophy",
-      "Non-Fiction",
-      "libib"
-    ],
-    "title": "Uma breve hist\u00f3ria da filosofia"
-  },
-  {
-    "*cdd": "895.13",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Liu Cixin",
-    "id": 83,
-    "isbn": "9788556510204",
-    "publisher": "Suma de Letras",
-    "tags": [
-      "Fantasy",
-      "Adult",
-      "libib",
-      "Science Fiction"
-    ],
-    "title": "O Problema dos Tr\u00eas Corpos"
-  },
-  {
-    "*cdd": "823",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "George Orwell",
-    "id": 84,
-    "isbn": "9789895622689",
-    "publisher": "Principis",
-    "tags": [
-      "Fiction & Literature",
-      "libib",
-      "Science Fiction",
-      "Science Fiction & Fantasy"
-    ],
-    "title": "1984"
-  },
-  {
-    "*cdd": "869",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Gil Vicente",
-    "id": 85,
-    "isbn": "9788538092193",
-    "publisher": "Principis",
-    "tags": [
-      "Classics",
-      "libib",
-      "Poetry"
-    ],
-    "title": "O Auto da Barca do Inferno e Outras Hist\u00f3rias"
-  },
-  {
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Eero Tarasti",
-    "id": 86,
-    "isbn": "9788569220770",
-    "tags": [
-      "libib"
-    ],
-    "title": "Heitor Villa-Lobos - Vida E Obra - 1887-1959"
-  },
-  {
-    "*cdd": "869.341",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Jos\u00e9 Saramago",
-    "id": 87,
-    "isbn": "9788571648494",
-    "publisher": "Companhia das Letras",
-    "tags": [
-      "Classics",
-      "Philosophy",
-      "libib",
-      "Fantasy"
-    ],
-    "title": "O conto da ilha desconhecida"
-  },
-  {
-    "*cdd": "823",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Agatha Christie",
-    "id": 88,
-    "isbn": "9788580415032",
-    "publisher": "L&PM",
-    "tags": [
-      "Mystery",
-      "Crime",
-      "libib",
-      "Thriller",
-      "Classics"
-    ],
-    "title": "Assassinato Na Casa Do Pastor"
-  },
-  {
-    "*cdd": "823",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Agatha Christie",
-    "id": 89,
-    "isbn": "9788525433442",
-    "publisher": "L&PM",
-    "tags": [
-      "Mystery",
-      "Crime",
-      "libib",
-      "Thriller",
-      "Classics"
-    ],
-    "title": "Convite para um homic\u00eddio"
-  },
-  {
-    "*cdd": "028.5",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Aesop",
-    "id": 90,
-    "isbn": "9786555521719",
-    "publisher": "Principis",
-    "tags": [
-      "Childrens",
-      "libib",
-      "Classics",
-      "Philosophy",
-      "Fantasy"
-    ],
-    "title": "F\u00e1bulas de Esopo"
-  },
-  {
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Cosson",
-    "id": 91,
-    "isbn": "9786555411348",
-    "publisher": "Contexto",
-    "tags": [
-      "Language Arts & Disciplines",
-      "Reading & Phonics",
-      "General",
-      "Language Arts",
-      "Literacy",
-      "Education",
-      "libib",
-      "Fiction",
-      "Teaching",
-      "Subjects"
-    ],
-    "title": "Como Criar Circulos De Leitura Na Sala De Aula"
-  },
-  {
-    "*cdd": "028.5",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Jacob Grimm & Wilhelm Grimm",
-    "id": 92,
-    "isbn": "9788594318909",
-    "publisher": "Principis",
-    "tags": [
-      "General",
-      "Family",
-      "Fairy Tales & Folklore",
-      "Juvenile Fiction",
-      "libib",
-      "Classics"
-    ],
-    "title": "Contos de Fadas dos Irm\u00e3os Grimm"
-  },
-  {
-    "*cdd": "843.87",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Jules Verne",
-    "id": 93,
-    "isbn": "9788525408365",
-    "publisher": "L&PM Pocket",
-    "tags": [
-      "Adventure",
-      "libib",
-      "Science Fiction",
-      "Classics",
-      "Travel",
-      "Historical",
-      "Fantasy"
-    ],
-    "title": "A Volta ao Mundo em 80 Dias"
-  },
-  {
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Yasmina Khadra",
-    "id": 94,
-    "isbn": "9788588193277",
-    "publisher": "Sa Editora",
-    "tags": [
-      "Contemporary",
-      "War",
-      "Historical",
-      "libib"
-    ],
-    "title": "Atentado"
-  },
-  {
-    "*cdd": "741.5",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Curd Ridel",
-    "id": 95,
-    "isbn": "9788525432292",
-    "publisher": "L&PM",
-    "tags": [
-      "Adventure",
-      "libib",
-      "Comics"
-    ],
-    "title": "Viagem ao Centro da Terra"
-  },
-  {
-    "*cdd": "828.99113",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Robert Louis Stevenson",
-    "id": 96,
-    "isbn": "9788594318121",
-    "publisher": "Principis",
-    "tags": [
-      "Mystery",
-      "Horror",
-      "libib",
-      "Science Fiction",
-      "Classics",
-      "Fantasy"
-    ],
-    "title": "O M\u00e9dico e o Monstro"
-  },
-  {
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Losurdo Domenico",
-    "id": 97,
-    "isbn": "9786557170090",
-    "publisher": "Boitempo",
-    "tags": [
-      "Sociology",
-      "libib",
-      "Politics"
-    ],
-    "title": "Colonialismo e luta anticolonial. Desafios da revolucao no seculo XXI"
-  },
-  {
-    "*cdd": "342.72181",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Carissa V\u00e9liz",
-    "id": 98,
-    "isbn": "9786588470725",
-    "publisher": "Contracorrente",
-    "tags": [
-      "Sociology",
-      "libib",
-      "Business",
-      "Philosophy",
-      "Politics",
-      "Science"
-    ],
-    "title": "Privacidade E Poder"
-  },
-  {
-    "*cdd": "320.533",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Leandro Konder",
-    "id": 99,
-    "isbn": "9788577431182",
-    "publisher": "Express\u00e3o Popular",
-    "tags": [
-      "History",
-      "libib"
-    ],
-    "title": "Introdu\u00e7\u00e3o ao Fascismo"
-  },
-  {
-    "*cdd": "897",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "H. P. Lovecraft",
-    "id": 100,
-    "isbn": "9788577152438",
-    "publisher": "Hedra",
-    "tags": [
-      "Horror",
-      "libib",
-      "Science Fiction",
-      "Classics",
-      "Fantasy"
-    ],
-    "title": "A cor que caiu do espa\u00e7o"
-  },
-  {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Brandon Sanderson",
-    "id": 101,
-    "isbn": "9788576573791",
-    "publisher": "Aleph",
-    "tags": [
-      "Young Adult",
-      "Fantasy",
-      "libib",
-      "Science Fiction"
-    ],
-    "title": "Tormenta de Fogo"
-  },
-  {
-    "*cdd": "891.73",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Fyodor Dostoevsky",
-    "id": 102,
-    "isbn": "9788573266573",
-    "publisher": "Editora 34",
-    "tags": [
-      "Classics",
-      "General",
-      "Fiction",
-      "libib"
-    ],
-    "title": "Contos Reunidos"
-  },
-  {
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Tsugumi Ohba",
-    "id": 103,
-    "isbn": "9788577876969",
-    "publisher": "Editora JBC",
-    "tags": [
-      "Mystery",
-      "Comics",
-      "Crime",
-      "Horror",
-      "Manga",
-      "libib",
-      "Thriller",
-      "Young Adult",
-      "Fantasy"
-    ],
-    "title": "Death Note: Black Edition, Volume 03"
-  },
-  {
-    "*cdd": "843",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Marquis de Sade",
-    "id": 104,
-    "isbn": "9788582850602",
-    "publisher": "Penguin - Companhia das Letras",
-    "tags": [
-      "Classics",
-      "Philosophy",
-      "libib",
-      "Horror"
-    ],
-    "title": "Os 120 Dias de Sodoma"
-  },
-  {
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Tsugumi Ohba",
-    "id": 105,
-    "isbn": "9788577877058",
-    "publisher": "Editora JBC",
-    "tags": [
-      "Mystery",
-      "Comics",
-      "Crime",
-      "Horror",
-      "Manga",
-      "libib",
-      "Thriller",
-      "Young Adult",
-      "Fantasy"
-    ],
-    "title": "Death Note: Black Edition, Volume 04"
-  },
-  {
-    "*cdd": "891.73",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Ivan Turgenev",
-    "id": 106,
-    "isbn": "9788573265439",
-    "publisher": "Editora 34",
-    "tags": [
-      "Classics",
-      "General",
-      "Fiction",
-      "libib"
-    ],
-    "title": "Mem\u00f3rias de um Ca\u00e7ador"
-  },
-  {
-    "*cdd": "891.73",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Leo Tolstoy",
-    "id": 107,
-    "isbn": "9788573263596",
-    "publisher": "Editora 34",
-    "tags": [
-      "Classics",
-      "Philosophy",
-      "libib"
-    ],
-    "title": "A morte de Ivan Ilitch"
-  },
-  {
-    "*cdd": "820",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "J. R. R. Tolkien",
-    "id": 108,
-    "isbn": "9788595084759",
-    "publisher": "HarperCollins",
-    "tags": [
-      "Adventure",
-      "libib",
-      "Science Fiction",
-      "Classics",
-      "Young Adult",
-      "Fantasy"
-    ],
-    "title": "A sociedade do anel"
-  },
-  {
-    "*cdd": "820",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "J. R. R. Tolkien",
-    "id": 109,
-    "isbn": "9788595084766",
-    "publisher": "HarperCollins Brasil",
-    "tags": [
-      "Adventure",
-      "libib",
-      "Science Fiction",
-      "Classics",
-      "Fantasy"
-    ],
-    "title": "As Duas Torres"
-  },
-  {
-    "*cdd": "820",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "J. R. R. Tolkien",
-    "id": 110,
-    "isbn": "9788595084773",
-    "publisher": "HarperCollins Brasil",
-    "tags": [
-      "Adventure",
-      "libib",
-      "Science Fiction",
-      "Classics",
-      "Fantasy"
-    ],
-    "title": "O Retorno do Rei"
-  },
-  {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Isaac Asimov",
-    "id": 111,
-    "isbn": "9788576574538",
-    "publisher": "Editora Aleph",
-    "tags": [
-      "Mystery",
-      "Crime",
-      "libib",
-      "Science Fiction",
-      "Classics",
-      "Fantasy"
-    ],
-    "title": "As Cavernas de A\u00e7o"
-  },
-  {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Isaac Asimov",
-    "id": 112,
-    "isbn": "9788576574590",
-    "publisher": "Aleph",
-    "tags": [
-      "Mystery",
-      "Crime",
-      "libib",
-      "Science Fiction",
-      "Classics",
-      "Fantasy"
-    ],
-    "title": "O Sol Desvelado"
-  },
-  {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Isaac Asimov",
-    "id": 113,
-    "isbn": "9788576574606",
-    "publisher": "Editora Aleph",
-    "tags": [
-      "Mystery",
-      "libib",
-      "Science Fiction",
-      "Classics",
-      "Fantasy"
-    ],
-    "title": "Os Rob\u00f4s da Alvorada"
-  },
-  {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Isaac Asimov",
-    "id": 114,
-    "isbn": "9788576573197",
-    "publisher": "Aleph",
-    "tags": [
-      "Mystery",
-      "libib",
-      "Science Fiction",
-      "Classics",
-      "Fantasy"
-    ],
-    "title": "Rob\u00f4s e Imp\u00e9rio"
-  },
-  {
-    "*cdd": "823",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Mary Wollstonecraft Shelley",
-    "id": 115,
-    "isbn": "9788582850190",
-    "publisher": "Penguin Companhia",
-    "tags": [
-      "Horror",
-      "libib",
-      "Science Fiction",
-      "Classics",
-      "Fantasy"
-    ],
-    "title": "Frankenstein ou o Prometeu Moderno"
-  },
-  {
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Johan Huizinga",
-    "id": 116,
-    "isbn": "9788582851371",
-    "publisher": "Penguin - Companhia das Letras",
-    "tags": [
-      "libib",
-      "Classics",
-      "Philosophy",
-      "History",
-      "Art"
-    ],
-    "title": "O Outono da Idade M\u00e9dia"
-  },
-  {
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Leo Tolstoy",
-    "id": 117,
-    "isbn": "9786555250572",
-    "publisher": "Editora 34",
-    "tags": [
-      "Classics",
-      "Fiction",
-      "General",
-      "Historical",
-      "libib",
-      "Literary",
-      "Romance"
-    ],
-    "title": "Anna Kar\u00eanina"
-  },
-  {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Isaac Asimov",
-    "id": 118,
-    "isbn": "9788576574835",
-    "publisher": "Editora Aleph",
-    "tags": [
-      "Classics",
-      "Science Fiction",
-      "libib",
-      "Fantasy"
-    ],
-    "title": "Funda\u00e7\u00e3o"
-  },
-  {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Isaac Asimov",
-    "id": 119,
-    "isbn": "9788576574842",
-    "publisher": "Editora Aleph",
-    "tags": [
-      "Classics",
-      "Science Fiction",
-      "libib",
-      "Fantasy"
-    ],
-    "title": "Funda\u00e7\u00e3o e Imp\u00e9rio"
-  },
-  {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Isaac Asimov",
-    "id": 120,
-    "isbn": "9788576574859",
-    "publisher": "Editora Aleph",
-    "tags": [
-      "Classics",
-      "Science Fiction",
-      "libib",
-      "Fantasy"
-    ],
-    "title": "Segunda Funda\u00e7\u00e3o"
-  },
-  {
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Miguel de Cervantes Saavedra",
-    "id": 121,
-    "isbn": "9788563560551",
-    "publisher": "Penguin - Companhia das Letras",
-    "tags": [
-      "Humour",
-      "Adventure",
-      "libib",
-      "Classics",
-      "Historical"
-    ],
-    "title": "Dom Quixote"
-  },
-  {
-    "*cdd": "750.92",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Steven Naifeh & Gregory White Smith",
-    "id": 122,
-    "isbn": "9788535921977",
-    "publisher": "Companhia das Letras",
-    "tags": [
-      "Biography",
-      "History",
-      "Art",
-      "libib"
-    ],
-    "title": "Van Gogh: a vida"
-  },
-  {
-    "*cdd": "851",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Dante Alighieri",
-    "id": 123,
-    "isbn": "9786550970321",
-    "publisher": "Principis",
-    "tags": [
-      "Religion",
-      "Poetry",
-      "libib",
-      "Classics",
-      "Philosophy",
-      "Fantasy"
-    ],
-    "title": "A Divina Com\u00e9dia: Inferno"
-  },
-  {
-    "*cdd": "851",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Dante Alighieri",
-    "id": 124,
-    "isbn": "9786550970338",
-    "publisher": "Principis",
-    "tags": [
-      "Religion",
-      "Poetry",
-      "libib",
-      "Classics",
-      "Philosophy",
-      "Fantasy"
-    ],
-    "title": "A Divina Com\u00e9dia: Purgat\u00f3rio"
-  },
-  {
-    "*cdd": "851",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Dante Alighieri",
-    "id": 125,
-    "isbn": "9786550970345",
-    "publisher": "Principis",
-    "tags": [
-      "Religion",
-      "Poetry",
-      "libib",
-      "Classics",
-      "Philosophy",
-      "Fantasy"
-    ],
-    "title": "A Divina Com\u00e9dia: Para\u00edso"
-  },
-  {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Frank Herbert",
-    "id": 126,
-    "isbn": "9788576572626",
-    "publisher": "Aleph",
-    "tags": [
-      "libib",
-      "Science Fiction",
-      "Classics",
-      "Philosophy",
-      "Fantasy"
-    ],
-    "title": "Imperador Deus de Duna"
-  },
-  {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Frank Herbert",
-    "id": 127,
-    "isbn": "9788576574026",
-    "publisher": "Aleph",
-    "tags": [
-      "Classics",
-      "Science Fiction",
-      "libib",
-      "Fantasy"
-    ],
-    "title": "Hereges de Duna"
-  },
-  {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Frank Herbert",
-    "id": 128,
-    "isbn": "9786586064254",
-    "publisher": "Aleph",
-    "tags": [
-      "Adventure",
-      "libib",
-      "Science Fiction",
-      "Classics",
-      "Fantasy"
-    ],
-    "title": "As Herdeiras de Duna"
-  },
-  {
-    "*cdd": "891.73",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Fyodor Dostoevsky",
-    "id": 129,
-    "isbn": "9788573266467",
-    "publisher": "Editora 34",
-    "tags": [
-      "Classics",
-      "Philosophy",
-      "Crime",
-      "libib"
-    ],
-    "title": "Crime e Castigo"
-  },
-  {
-    "*cdd": "891.73",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Fyodor Dostoevsky",
-    "id": 130,
-    "isbn": "9786555250268",
-    "publisher": "34",
-    "tags": [
-      "Classics",
-      "Historical",
-      "Philosophy",
-      "libib"
-    ],
-    "title": "O Idiota"
-  },
-  {
-    "*cdd": "891.73",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Fiodor Dosto\u00efevski",
-    "id": 131,
-    "isbn": "9798573263052",
-    "publisher": "Editora 34",
-    "tags": [
-      "Classics",
-      "Philosophy",
-      "libib",
-      "Politics"
-    ],
-    "title": "Dem\u00f4nios, Os"
-  },
-  {
-    "*cdd": "891.73",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Fyodor Dostoevsky",
-    "id": 132,
-    "isbn": "9788573266108",
-    "publisher": "Editora 34",
-    "tags": [
-      "General",
-      "Fiction",
-      "libib"
-    ],
-    "title": "O Adolescente"
-  },
-  {
-    "*cdd": "891.73",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Fyodor Dostoevsky",
-    "id": 133,
-    "isbn": "9788573264111",
-    "publisher": "Editora 34",
-    "tags": [
-      "Classics",
-      "Philosophy",
-      "libib"
-    ],
-    "title": "Os Irm\u00e3os Karam\u00e1zov"
-  },
-  {
-    "*cdd": "891.73",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Fyodor Dostoevsky",
-    "id": 134,
-    "isbn": "9788573264104",
-    "publisher": "Editora 34",
-    "tags": [
-      "Classics",
-      "Philosophy",
-      "libib",
-      "Religion"
-    ],
-    "title": "Os Irm\u00e3os Karam\u00e1zov"
-  },
-  {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Brandon Sanderson",
-    "id": 135,
-    "isbn": "9788576573463",
-    "publisher": "Editora Aleph",
-    "tags": [
-      "Young Adult",
-      "Fantasy",
-      "libib",
-      "Science Fiction"
-    ],
-    "title": "Cora\u00e7\u00e3o de A\u00e7o"
-  },
-  {
-    "*cdd": "891.73",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Fyodor Dostoevsky & Fi\u00f3dor Dostoyevski",
-    "id": 136,
-    "isbn": "9788573261851",
-    "publisher": "Editora 34",
-    "tags": [
-      "Classics",
-      "Philosophy",
-      "Psychology",
-      "libib"
-    ],
-    "title": "Mem\u00f3rias do Subsolo"
-  },
-  {
-    "*cdd": "891.73",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Lyudmila Ulitskaya & Liudmila Ul\u00edtskaia",
-    "id": 137,
-    "isbn": "9786555250831",
-    "publisher": "Editora 34",
-    "tags": [
-      "General",
-      "libib",
-      "Classics",
-      "Fiction",
-      "Contemporary"
-    ],
-    "title": "Meninas"
-  },
-  {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Frank Herbert",
-    "id": 138,
-    "isbn": "9788576573135",
-    "publisher": "Aleph",
-    "tags": [
-      "Fantasy",
-      "Classics",
-      "libib",
-      "Science Fiction"
-    ],
-    "title": "Duna"
-  },
-  {
-    "*cdd": "951",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Luis Giffoni",
-    "id": 139,
-    "isbn": "9788573587647",
-    "publisher": "Editora Leitura",
-    "tags": [
-      "libib"
-    ],
-    "title": "China, o despertar do drag\u00e3o"
-  },
-  {
-    "*cdd": "321.94",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Jason F. Stanley",
-    "id": 140,
-    "isbn": "9788525438201",
-    "publisher": "L&PM",
-    "tags": [
-      "History",
-      "libib",
-      "Non-Fiction",
-      "Philosophy",
-      "Politics"
-    ],
-    "title": "Como funciona o fascismo: a politica do \"n\u00f3s\" e \"eles\""
-  },
-  {
-    "*cdd": "823",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Agatha Christie",
-    "id": 141,
-    "isbn": "9788525438157",
-    "publisher": "L&PM",
-    "tags": [
-      "Mystery",
-      "Crime",
-      "libib",
-      "Thriller",
-      "Classics"
-    ],
-    "title": "Morte no Nilo"
-  },
-  {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Frank Herbert",
-    "id": 142,
-    "isbn": "9788576573821",
-    "publisher": "Editora Aleph",
-    "tags": [
-      "Classics",
-      "Science Fiction",
-      "libib",
-      "Fantasy"
-    ],
-    "title": "Messias de Duna"
-  },
-  {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Frank Herbert",
-    "id": 143,
-    "isbn": "9788576573142",
-    "publisher": "Aleph",
-    "tags": [
-      "Classics",
-      "Science Fiction",
-      "libib",
-      "Fantasy"
-    ],
-    "title": "Filhos de Duna"
-  },
-  {
-    "*cdd": "813.6",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Brandon Sanderson",
-    "id": 144,
-    "isbn": "9781429961813",
-    "publisher": "Tor Fantasy",
-    "tags": [
-      "Epic Fantasy",
-      "Epic",
-      "Action & Adventure",
-      "libib",
-      "Science Fiction & Fantasy",
-      "Fiction",
-      "Fantasy"
-    ],
-    "title": "The Well of Ascension"
-  },
-  {
-    "*cdd": "823",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Joseph Conrad",
-    "id": 145,
-    "isbn": "9788535912500",
-    "publisher": "Companhia de Bolso",
-    "tags": [
-      "Classics",
-      "Historical",
-      "libib",
-      "Adventure"
-    ],
-    "title": "Cora\u00e7\u00e3o das Trevas"
-  },
-  {
-    "*cdd": "306.45",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Carl Sagan",
-    "id": 146,
-    "isbn": "9788535908343",
-    "publisher": "Companhia de Bolso",
-    "tags": [
-      "Psychology",
-      "libib",
-      "Philosophy",
-      "Science",
-      "History",
-      "Religion"
-    ],
-    "title": "O mundo assombrado pelos dem\u00f4nios"
-  },
-  {
-    "*cdd": "923.1",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Joachim Fest",
-    "id": 147,
-    "isbn": "9788520917404",
-    "publisher": "Nova Fronteira",
-    "tags": [
-      "War",
-      "Biography",
-      "History",
-      "libib"
-    ],
-    "title": "Hitler, Vol 1"
-  },
-  {
-    "*cdd": "869.4",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Lu\u00eds Fernando Ver\u00edssimo & Ana Maria Machado",
-    "id": 148,
-    "isbn": "9788573023510",
-    "publisher": "Objetiva",
-    "tags": [
-      "Humour",
-      "libib"
-    ],
-    "title": "Com\u00e9dias para se ler na escola"
-  },
-  {
-    "*cdd": "929.20973",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Edward Klein",
-    "id": 149,
-    "isbn": "9788500014680",
-    "publisher": "Ediouro",
-    "tags": [
-      "libib"
-    ],
-    "title": "Maldi\u00e7\u00e3o Dos Kennedy, A"
-  },
-  {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Isaac Asimov",
-    "id": 150,
-    "isbn": "9788576572008",
-    "publisher": "Aleph",
-    "tags": [
-      "Classics",
-      "Science Fiction",
-      "libib",
-      "Fantasy"
-    ],
-    "title": "Eu, Rob\u00f4"
-  },
-  {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Daniel Keyes",
-    "id": 151,
-    "isbn": "9788576573937",
-    "publisher": "Aleph",
-    "tags": [
-      "Psychology",
-      "libib",
-      "Science Fiction",
-      "Classics",
-      "Young Adult"
-    ],
-    "title": "Flores para Algernon"
-  },
-  {
-    "*cdd": "616.85270092",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Andrew Solomon",
-    "id": 152,
-    "isbn": "9788535924633",
-    "publisher": "Companhia das Letras",
-    "tags": [
-      "Biography",
-      "Health",
-      "Psychology",
-      "libib",
-      "Self Help",
-      "Science"
-    ],
-    "title": "O Dem\u00f4nio do Meio-Dia: Uma Anatomia da Depress\u00e3o"
-  },
-  {
-    "*cdd": "901",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "David Graeber & David Wengrow",
-    "id": 153,
-    "isbn": "9786559211722",
-    "publisher": "Companhia das Letras",
-    "tags": [
-      "Sociology",
-      "libib",
-      "Philosophy",
-      "Politics",
-      "Science",
-      "History"
-    ],
-    "title": "O despertar de tudo: Uma nova hist\u00f3ria da humanidade"
-  },
-  {
-    "*cdd": "891.7",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Yevgeny Zamyatin",
-    "id": 154,
-    "isbn": "9786586064469",
-    "publisher": "Aleph",
-    "tags": [
-      "Classics",
-      "Fantasy",
-      "libib",
-      "Science Fiction"
-    ],
-    "title": "N\u00f3s"
-  },
-  {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Philip K. Dick",
-    "id": 155,
-    "isbn": "9780547728247",
-    "publisher": "Editora Aleph",
-    "tags": [
-      "Mystery",
-      "Literary Work",
-      "libib",
-      "Science Fiction",
-      "Classics",
-      "Fantasy"
-    ],
-    "title": "Ubik"
-  },
-  {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Philip K. Dick",
-    "id": 156,
-    "isbn": "9788576574415",
-    "publisher": "Aleph",
-    "tags": [
-      "libib",
-      "Science Fiction",
-      "Classics",
-      "Historical",
-      "Fantasy"
-    ],
-    "title": "O homem do castelo alto"
-  },
-  {
-    "*cdd": "823",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Anthony Burgess",
-    "id": 157,
-    "isbn": "9788576574460",
-    "publisher": "Editora Aleph",
-    "tags": [
-      "Crime",
-      "Horror",
-      "libib",
-      "Science Fiction",
-      "Classics"
-    ],
-    "title": "Laranja Mec\u00e2nica"
-  },
-  {
-    "*cdd": "833",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Thomas Mann",
-    "id": 158,
-    "isbn": "9788535926910",
-    "publisher": "Companhia das Letras",
-    "tags": [
-      "Classics",
-      "Historical",
-      "libib"
-    ],
-    "title": "Os Buddenbrook: decad\u00eancia de uma fam\u00edlia"
-  },
-  {
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Grant Morrison",
-    "id": 159,
-    "isbn": "9788565484077",
-    "publisher": "Panini Books",
-    "tags": [
-      "Comic Book Series",
-      "libib",
-      "Science Fiction",
-      "Comics",
-      "Fantasy"
-    ],
-    "title": "We3"
-  },
-  {
     "*cdd": "813",
     "*cdd_class": "substring: unknown function",
     "*read": true,
@@ -2677,218 +2144,6 @@
       "Thriller"
     ],
     "title": "Ponto de Impacto"
-  },
-  {
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Jane Austen",
-    "id": 162,
-    "isbn": "9789897780615",
-    "publisher": "Pandora's Box",
-    "tags": [
-      "Romance",
-      "libib"
-    ],
-    "title": "Pride and Prejudice"
-  },
-  {
-    "*cdd": "891.793",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Vasily Grossman",
-    "id": 163,
-    "isbn": "9788579623394",
-    "publisher": "Alfaguara",
-    "tags": [
-      "Classics",
-      "War",
-      "Historical",
-      "libib"
-    ],
-    "title": "Vida e Destino"
-  },
-  {
-    "*cdd": "808.838738034",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Alberto Manguel",
-    "id": 164,
-    "isbn": "9788535906318",
-    "publisher": "Companhia das Letras",
-    "tags": [
-      "libib",
-      "Horror"
-    ],
-    "title": "Contos de Horror do S\u00e9culo XIX"
-  },
-  {
-    "*cdd": "303.4",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Jared Diamond",
-    "id": 165,
-    "isbn": "9788501110015",
-    "publisher": "Editora Record",
-    "tags": [
-      "Sociology",
-      "libib",
-      "Politics",
-      "Science",
-      "History"
-    ],
-    "title": "Armas, Germes e A\u00e7o: Os Destinos das Sociedades Humanas"
-  },
-  {
-    "*cdd": "869.93",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Rogerio Menezes",
-    "id": 166,
-    "isbn": "9788501083265",
-    "publisher": "Editora Record",
-    "tags": [
-      "libib"
-    ],
-    "title": "Um N\u00e1ufrago que Ri"
-  },
-  {
-    "*cdd": "813.6",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Brandon Sanderson",
-    "id": 167,
-    "isbn": "9781429952040",
-    "publisher": "Tor Books",
-    "tags": [
-      "Literary Work",
-      "Epic",
-      "Military",
-      "Action & Adventure",
-      "libib",
-      "Fiction",
-      "Fantasy"
-    ],
-    "title": "Rhythm of War"
-  },
-  {
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Hanya Yanagihara",
-    "id": 168,
-    "isbn": "9788501071545",
-    "publisher": "Record",
-    "tags": [
-      "Contemporary",
-      "Adult",
-      "libib"
-    ],
-    "title": "Uma vida pequena"
-  },
-  {
-    "*cdd": "813.6",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Unknown Author",
-    "id": 169,
-    "isbn": "9786556090672",
-    "publisher": "Editora",
-    "tags": [
-      "Hard Science Fiction",
-      "General",
-      "Childrens",
-      "libib",
-      "Science Fiction",
-      "Action & Adventure",
-      "Fiction",
-      "Fantasy"
-    ],
-    "title": "Star Wars: The Mandalorian"
-  },
-  {
-    "*cdd": "813.54",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "George Lucas & Donald F. Glut & James Kahn",
-    "id": 170,
-    "isbn": "9788566636260",
-    "publisher": "DarkSide Books",
-    "tags": [
-      "Adventure",
-      "libib",
-      "Science Fiction",
-      "Classics",
-      "Fantasy"
-    ],
-    "title": "Star Wars: A Trilogia"
-  },
-  {
-    "*cdd": "927.8242166",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Deborah Curtis",
-    "id": 171,
-    "isbn": "9788562885303",
-    "publisher": "IDEAL",
-    "tags": [
-      "Biography",
-      "Music",
-      "Art",
-      "libib"
-    ],
-    "title": "Tocando a Dist\u00e2ncia. Ian Curtis E Joy Division"
-  },
-  {
-    "*cdd": "741.5",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Craig Thompson",
-    "id": 172,
-    "isbn": "9788535921311",
-    "publisher": "Companhia das Letras",
-    "tags": [
-      "Religion",
-      "Graphic Novel",
-      "libib",
-      "Comics",
-      "Historical",
-      "Romance",
-      "Fantasy"
-    ],
-    "title": "Habibi"
-  },
-  {
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "J\u00f4 Soares",
-    "id": 173,
-    "isbn": "9788535906172",
-    "publisher": "Companhia das Letras",
-    "tags": [
-      "Mystery",
-      "General",
-      "Crime",
-      "libib",
-      "Fiction",
-      "Historical",
-      "Romance"
-    ],
-    "title": "Assassinatos Na Academia Brasileira De Letras"
-  },
-  {
-    "*cdd": "869.93",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Marcelo Ferroni",
-    "id": 174,
-    "isbn": "9788535917482",
-    "publisher": "Companhia das Letras",
-    "tags": [
-      "Thrillers",
-      "General",
-      "Fiction",
-      "libib"
-    ],
-    "title": "Metodo Pratico De Guerrilha"
   },
   {
     "*cdd": "813",
@@ -2930,6 +2185,1093 @@
     "title": "Sob a Redoma"
   },
   {
+    "*cdd": "811",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Charles Bukowski",
+    "id": 20,
+    "isbn": "9788525434012",
+    "publisher": "L&PM",
+    "tags": [
+      "Classics",
+      "libib",
+      "Poetry"
+    ],
+    "title": "Queimando na \u00c1gua, Afogando-se na Chama - Cole\u00e7\u00e3o L&PM Pocket"
+  },
+  {
+    "*cdd": "811",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Ivo Barroso",
+    "id": 80,
+    "isbn": "9788580442571",
+    "publisher": "Leya",
+    "tags": [
+      "Literary",
+      "Fiction",
+      "libib"
+    ],
+    "title": "O Corvo e Suas Tradu\u00e7\u00f5es"
+  },
+  {
+    "*cdd": "808.838738034",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Alberto Manguel",
+    "id": 164,
+    "isbn": "9788535906318",
+    "publisher": "Companhia das Letras",
+    "tags": [
+      "libib",
+      "Horror"
+    ],
+    "title": "Contos de Horror do S\u00e9culo XIX"
+  },
+  {
+    "*cdd": "782.4216490981",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Racionais Mc's",
+    "id": 54,
+    "isbn": "9788535931730",
+    "publisher": "Companhia das Letras",
+    "tags": [
+      "Biography",
+      "Music",
+      "libib",
+      "Poetry"
+    ],
+    "title": "Sobrevivendo no inferno"
+  },
+  {
+    "*cdd": "750.92",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Steven Naifeh & Gregory White Smith",
+    "id": 122,
+    "isbn": "9788535921977",
+    "publisher": "Companhia das Letras",
+    "tags": [
+      "Biography",
+      "History",
+      "Art",
+      "libib"
+    ],
+    "title": "Van Gogh: a vida"
+  },
+  {
+    "*cdd": "741.5973",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Art Spiegelman",
+    "id": 32,
+    "isbn": "9788535906288",
+    "publisher": "Quadrinhos na Cia.",
+    "tags": [
+      "Biography",
+      "War",
+      "libib",
+      "Classics",
+      "Comics",
+      "History"
+    ],
+    "title": "Maus: A Hist\u00f3ria de um Sobrevivente"
+  },
+  {
+    "*cdd": "741.5",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Frank Herbert & Brian Herbert & Kevin J. Anderson",
+    "id": 11,
+    "isbn": "9786555601183",
+    "publisher": "Intr\u00ednseca",
+    "tags": [
+      "Young Adult Fiction",
+      "General",
+      "Comics & Graphic Novels",
+      "libib",
+      "Science Fiction",
+      "Adaptations",
+      "Classics",
+      "Adult",
+      "Comics",
+      "Fantasy"
+    ],
+    "title": "Duna: Graphic Novel Volume 1"
+  },
+  {
+    "*cdd": "741.5",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Curd Ridel",
+    "id": 95,
+    "isbn": "9788525432292",
+    "publisher": "L&PM",
+    "tags": [
+      "Adventure",
+      "libib",
+      "Comics"
+    ],
+    "title": "Viagem ao Centro da Terra"
+  },
+  {
+    "*cdd": "741.5",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Craig Thompson",
+    "id": 172,
+    "isbn": "9788535921311",
+    "publisher": "Companhia das Letras",
+    "tags": [
+      "Religion",
+      "Graphic Novel",
+      "libib",
+      "Comics",
+      "Historical",
+      "Romance",
+      "Fantasy"
+    ],
+    "title": "Habibi"
+  },
+  {
+    "*cdd": "616.85270092",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Andrew Solomon",
+    "id": 152,
+    "isbn": "9788535924633",
+    "publisher": "Companhia das Letras",
+    "tags": [
+      "Biography",
+      "Health",
+      "Psychology",
+      "libib",
+      "Self Help",
+      "Science"
+    ],
+    "title": "O Dem\u00f4nio do Meio-Dia: Uma Anatomia da Depress\u00e3o"
+  },
+  {
+    "*cdd": "613.2",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Marcelo Rossi",
+    "id": 16,
+    "isbn": "9788525061805",
+    "publisher": "Principium",
+    "tags": [
+      "General",
+      "Eating Disorders & Body Image",
+      "libib",
+      "Meditations",
+      "Self-Help"
+    ],
+    "title": "Ruah: Quebrando os paradigmas de que gordura \u00e9 sa\u00fade e magreza \u00e9 doen\u00e7a"
+  },
+  {
+    "*cdd": "610.92",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Drauzio Varella",
+    "id": 56,
+    "isbn": "9788535921694",
+    "publisher": "Companhia das Letras",
+    "tags": [
+      "Non-Fiction",
+      "libib"
+    ],
+    "title": "Carcereiros"
+  },
+  {
+    "*cdd": "530.12",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Stephen W. Hawking",
+    "id": 39,
+    "isbn": "9788580578881",
+    "publisher": "Intr\u00ednseca",
+    "tags": [
+      "General",
+      "libib",
+      "Philosophy",
+      "Science",
+      "History",
+      "Physics"
+    ],
+    "title": "O Universo Numa Casca de Noz"
+  },
+  {
+    "*cdd": "520",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Carl Sagan",
+    "id": 74,
+    "isbn": "9780307800985",
+    "publisher": "Companhia das Letras",
+    "tags": [
+      "Literary Work",
+      "libib",
+      "Classics",
+      "Philosophy",
+      "Science",
+      "History"
+    ],
+    "title": "Cosmos"
+  },
+  {
+    "*cdd": "500",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Carl Sagan & Ann Druyan",
+    "id": 21,
+    "isbn": "9788535911947",
+    "publisher": "Companhia das Letras",
+    "tags": [
+      "libib",
+      "Philosophy",
+      "Politics",
+      "Science",
+      "History"
+    ],
+    "title": "Bilh\u00f5es e Bilh\u00f5es: Reflex\u00f5es Sobre a Vida e a Morte na Virada do Mil\u00eanio"
+  },
+  {
+    "*cdd": "394.909",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Daniel Diehl & Mark P Donnelly & Mark Donnelly",
+    "id": 214,
+    "isbn": "9788525043467",
+    "publisher": "GLOBO",
+    "tags": [
+      "History"
+    ],
+    "title": "Devorando o Vizinho"
+  },
+  {
+    "*cdd": "370.152",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Pierluigi Piazzi",
+    "id": 55,
+    "isbn": "9788576570608",
+    "publisher": "Aleph",
+    "tags": [
+      "Non-Fiction",
+      "libib"
+    ],
+    "title": "Aprendendo Intelig\u00eancia: Manual de Instru\u00e7\u00f5es do C\u00e9rebro para Alunos em Geral"
+  },
+  {
+    "*cdd": "370.15",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Giovanna Paesani",
+    "id": 15,
+    "isbn": "9788532648341",
+    "publisher": "Vozes",
+    "tags": [
+      "libib"
+    ],
+    "title": "120 Jogos E Percursos De Psicomotricidade. Crian\u00e7as Em Movimento"
+  },
+  {
+    "*cdd": "363.179909477622",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Svetlana Alexievich",
+    "id": 75,
+    "isbn": "9788535927085",
+    "publisher": "Companhia das Letras",
+    "tags": [
+      "History",
+      "libib",
+      "Politics",
+      "Science"
+    ],
+    "title": "Vozes de Tchern\u00f3bil: A Hist\u00f3ria Oral do Desastre Nuclear"
+  },
+  {
+    "*cdd": "356.66",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Drauzio Varella",
+    "id": 30,
+    "isbn": "9788535929041",
+    "publisher": "Companhia das Letras",
+    "tags": [
+      "Non-Fiction",
+      "libib"
+    ],
+    "title": "Prisioneiras"
+  },
+  {
+    "*cdd": "342.72181",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Carissa V\u00e9liz",
+    "id": 98,
+    "isbn": "9786588470725",
+    "publisher": "Contracorrente",
+    "tags": [
+      "Sociology",
+      "libib",
+      "Business",
+      "Philosophy",
+      "Politics",
+      "Science"
+    ],
+    "title": "Privacidade E Poder"
+  },
+  {
+    "*cdd": "342.7",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Jo\u00e3o Feres J\u00fanior & F\u00e1bio Kerche",
+    "id": 4,
+    "isbn": "9788569220503",
+    "publisher": "Contracorrente",
+    "tags": [
+      "libib"
+    ],
+    "title": "Operacao Lava Jato E a Democracia Brasileira"
+  },
+  {
+    "*cdd": "335.412",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Ben Fine & Alfredo Saad Filho",
+    "id": 58,
+    "isbn": "9786588470268",
+    "publisher": "Editora Contracorrente",
+    "tags": [
+      "Philosophy",
+      "Non-Fiction",
+      "Politics",
+      "libib"
+    ],
+    "title": "\"O Capital\" de Marx"
+  },
+  {
+    "*cdd": "327.73",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Reginaldo Nasser",
+    "id": 190,
+    "isbn": "9786588470886",
+    "publisher": "Contracorrente",
+    "tags": [],
+    "title": "A Luta Contra o Terrorismo: os Estados Unidos e os Amigos Talib\u00e3s"
+  },
+  {
+    "*cdd": "321.94",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Jason F. Stanley",
+    "id": 140,
+    "isbn": "9788525438201",
+    "publisher": "L&PM",
+    "tags": [
+      "History",
+      "libib",
+      "Non-Fiction",
+      "Philosophy",
+      "Politics"
+    ],
+    "title": "Como funciona o fascismo: a politica do \"n\u00f3s\" e \"eles\""
+  },
+  {
+    "*cdd": "320.533",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Leandro Konder",
+    "id": 99,
+    "isbn": "9788577431182",
+    "publisher": "Express\u00e3o Popular",
+    "tags": [
+      "History",
+      "libib"
+    ],
+    "title": "Introdu\u00e7\u00e3o ao Fascismo"
+  },
+  {
+    "*cdd": "306.45",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Carl Sagan",
+    "id": 146,
+    "isbn": "9788535908343",
+    "publisher": "Companhia de Bolso",
+    "tags": [
+      "Psychology",
+      "libib",
+      "Philosophy",
+      "Science",
+      "History",
+      "Religion"
+    ],
+    "title": "O mundo assombrado pelos dem\u00f4nios"
+  },
+  {
+    "*cdd": "305.896",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Malcolm X",
+    "id": 44,
+    "isbn": "9786586497533",
+    "publisher": "Ubu Editora",
+    "tags": [
+      "Biography",
+      "libib",
+      "Philosophy",
+      "Politics",
+      "History"
+    ],
+    "title": "Malcolm X Fala"
+  },
+  {
+    "*cdd": "305.5122",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Isabel Wilkerson",
+    "id": 46,
+    "isbn": "9788537819142",
+    "publisher": "Zahar",
+    "tags": [
+      "History",
+      "Sociology",
+      "libib",
+      "Politics"
+    ],
+    "title": "Casta: As Origens de Nosso Mal-Estar"
+  },
+  {
+    "*cdd": "305",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Aim\u00e9 C\u00e9saire",
+    "id": 79,
+    "isbn": "9788595710689",
+    "publisher": "Veneta",
+    "tags": [
+      "Sociology",
+      "libib",
+      "Philosophy",
+      "Politics",
+      "History"
+    ],
+    "title": "Discurso sobre o Colonialismo"
+  },
+  {
+    "*cdd": "304.2",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Ailton Krenak",
+    "id": 42,
+    "isbn": "9788535933581",
+    "publisher": "Companhia das Letras",
+    "tags": [
+      "Philosophy",
+      "libib",
+      "Politics"
+    ],
+    "title": "Ideias Para Adiar O Fim Do Mundo"
+  },
+  {
+    "*cdd": "303.4",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Jared Diamond",
+    "id": 165,
+    "isbn": "9788501110015",
+    "publisher": "Editora Record",
+    "tags": [
+      "Sociology",
+      "libib",
+      "Politics",
+      "Science",
+      "History"
+    ],
+    "title": "Armas, Germes e A\u00e7o: Os Destinos das Sociedades Humanas"
+  },
+  {
+    "*cdd": "301.04",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Zygmunt Bauman",
+    "id": 76,
+    "isbn": "9786559790005",
+    "publisher": "Zahar",
+    "tags": [
+      "Sociology",
+      "Non-Fiction",
+      "libib",
+      "Philosophy",
+      "Politics"
+    ],
+    "title": "Modernidade l\u00edquida"
+  },
+  {
+    "*cdd": "248.4",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "C. S. Lewis",
+    "id": 45,
+    "isbn": "9788566997811",
+    "publisher": "Thomas Nelson Brasil",
+    "tags": [
+      "libib",
+      "Classics",
+      "Spirituality",
+      "Philosophy",
+      "Religion"
+    ],
+    "title": "Cristianismo Puro E Simples"
+  },
+  {
+    "*cdd": "190",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Nigel Warburton",
+    "id": 82,
+    "isbn": "9788525426505",
+    "publisher": "L&PM",
+    "tags": [
+      "History",
+      "Philosophy",
+      "Non-Fiction",
+      "libib"
+    ],
+    "title": "Uma breve hist\u00f3ria da filosofia"
+  },
+  {
+    "*cdd": "155.633",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Clarissa Pinkola Est\u00e9s",
+    "id": 50,
+    "isbn": "9788532529787",
+    "publisher": "Rocco",
+    "tags": [
+      "Feminism",
+      "Self Help",
+      "Psychology",
+      "libib",
+      "Spirituality",
+      "Philosophy"
+    ],
+    "title": "Mulheres que correm com os lobos: Mitos e hist\u00f3rias do arqu\u00e9tipo da mulher selvagem"
+  },
+  {
+    "*cdd": "153.42",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Daniel Kahneman",
+    "id": 33,
+    "isbn": "9788539003839",
+    "publisher": "Objetiva",
+    "tags": [
+      "Psychology",
+      "libib",
+      "Self Help",
+      "Business",
+      "Philosophy",
+      "Science"
+    ],
+    "title": "R\u00e1pido e Devagar: Duas Formas de Pensar"
+  },
+  {
+    "*cdd": "100",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Matthew Chrisman",
+    "id": 81,
+    "isbn": "9788525438591",
+    "publisher": "L&PM",
+    "tags": [
+      "Philosophy",
+      "libib",
+      "Science"
+    ],
+    "title": "Filosofia para todos"
+  },
+  {
+    "*cdd": "028.5",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Aesop",
+    "id": 90,
+    "isbn": "9786555521719",
+    "publisher": "Principis",
+    "tags": [
+      "Childrens",
+      "libib",
+      "Classics",
+      "Philosophy",
+      "Fantasy"
+    ],
+    "title": "F\u00e1bulas de Esopo"
+  },
+  {
+    "*cdd": "028.5",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Jacob Grimm & Wilhelm Grimm",
+    "id": 92,
+    "isbn": "9788594318909",
+    "publisher": "Principis",
+    "tags": [
+      "General",
+      "Family",
+      "Fairy Tales & Folklore",
+      "Juvenile Fiction",
+      "libib",
+      "Classics"
+    ],
+    "title": "Contos de Fadas dos Irm\u00e3os Grimm"
+  },
+  {
+    "*cdd": "028.5",
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Alexandre Dumas",
+    "id": 207,
+    "isbn": "9789897786105",
+    "publisher": "Pandora's Box",
+    "tags": [
+      "Romance",
+      "Fiction & Literature",
+      "Action Suspense"
+    ],
+    "title": "The Count of Monte Cristo"
+  },
+  {
+    "*cdd": "003.7",
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Steven Jonhson",
+    "id": 34,
+    "isbn": "9788571107397",
+    "publisher": "Zahar",
+    "tags": [
+      "Information Theory",
+      "libib",
+      "Computers"
+    ],
+    "title": "Emerg\u00eancia"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Jesse J. Anderson",
+    "id": 1,
+    "isbn": "9798988644217",
+    "publisher": "Vada Press",
+    "tags": [
+      "Nonfiction",
+      "Self Help",
+      "Happiness",
+      "Health & Well Being",
+      "Mental Health",
+      "Personality",
+      "Psychology"
+    ],
+    "title": "Extra Focus"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Tsugumi Ohba",
+    "id": 8,
+    "isbn": "9788577876860",
+    "publisher": "Editora JBC",
+    "tags": [
+      "Mystery",
+      "Comics",
+      "Crime",
+      "Horror",
+      "Manga",
+      "libib",
+      "Thriller",
+      "Young Adult",
+      "Fantasy"
+    ],
+    "title": "Death Note: Black Edition, Volume 02"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Tsugumi Ohba",
+    "id": 9,
+    "isbn": "9788577876853",
+    "publisher": "Editora JBC",
+    "tags": [
+      "Mystery",
+      "Comics",
+      "Horror",
+      "Manga",
+      "libib",
+      "Thriller",
+      "Young Adult",
+      "Fantasy"
+    ],
+    "title": "Death Note: Black Edition, Volume 01"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Cristiano Zanin Martins & Valeska Teixeira Zanin Martins & Rafael Valim",
+    "id": 13,
+    "isbn": "9788569220190",
+    "publisher": "Contracorrente",
+    "tags": [
+      "libib"
+    ],
+    "title": "O Caso Lula"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Jason Lutes",
+    "id": 18,
+    "isbn": "9788595710702",
+    "publisher": "Veneta",
+    "tags": [
+      "History",
+      "Politics",
+      "libib",
+      "Comics"
+    ],
+    "title": "Berlim"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Ryuto",
+    "id": 22,
+    "isbn": "9798898633271",
+    "publisher": "Airship (Seven Seas)",
+    "tags": [
+      "Adventure",
+      "Manga",
+      "libib",
+      "Science Fiction",
+      "Science Fiction & Fantasy",
+      "Comics Graphic Novels & Manga"
+    ],
+    "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! (Light Novel) Vol. 14"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Christian Dunker",
+    "id": 38,
+    "isbn": "9786599119491",
+    "publisher": "Editora Contracorrente",
+    "tags": [
+      "libib"
+    ],
+    "title": "Paix\u00e3o da ignor\u00e2ncia: a escuta entre psican\u00e1lise e educa\u00e7\u00e3o"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Ana Maria Gon\u00e7alves",
+    "id": 43,
+    "isbn": "9788501071750",
+    "publisher": "Record",
+    "tags": [
+      "Literary Work",
+      "libib"
+    ],
+    "title": "Um Defeito de Cor"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Brandon Sanderson",
+    "id": 51,
+    "isbn": "9786589132684",
+    "publisher": "Trama",
+    "tags": [
+      "Adventure",
+      "libib",
+      "Science Fiction",
+      "Adult",
+      "Fantasy"
+    ],
+    "title": "O Caminho dos Reis"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Joe Sacco",
+    "id": 60,
+    "isbn": "9786586691405",
+    "publisher": "Veneta",
+    "tags": [
+      "War",
+      "libib",
+      "Politics",
+      "Comics",
+      "History"
+    ],
+    "title": "Palestina"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Tsugumi Ohba",
+    "id": 72,
+    "isbn": "9788577877669",
+    "publisher": "Editora JBC",
+    "tags": [
+      "Mystery",
+      "Crime",
+      "Paranormal",
+      "Horror",
+      "Manga",
+      "libib",
+      "Thriller",
+      "Comics",
+      "Fantasy"
+    ],
+    "title": "Death Note: Black Edition, Volume 06"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Tsugumi Ohba",
+    "id": 73,
+    "isbn": "9788577877478",
+    "publisher": "Editora JBC",
+    "tags": [
+      "Mystery",
+      "Comics",
+      "Crime",
+      "Horror",
+      "Manga",
+      "libib",
+      "Thriller",
+      "Young Adult",
+      "Fantasy"
+    ],
+    "title": "Death Note: Black Edition, Volume 05"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Eero Tarasti",
+    "id": 86,
+    "isbn": "9788569220770",
+    "tags": [
+      "libib"
+    ],
+    "title": "Heitor Villa-Lobos - Vida E Obra - 1887-1959"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Cosson",
+    "id": 91,
+    "isbn": "9786555411348",
+    "publisher": "Contexto",
+    "tags": [
+      "Language Arts & Disciplines",
+      "Reading & Phonics",
+      "General",
+      "Language Arts",
+      "Literacy",
+      "Education",
+      "libib",
+      "Fiction",
+      "Teaching",
+      "Subjects"
+    ],
+    "title": "Como Criar Circulos De Leitura Na Sala De Aula"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Yasmina Khadra",
+    "id": 94,
+    "isbn": "9788588193277",
+    "publisher": "Sa Editora",
+    "tags": [
+      "Contemporary",
+      "War",
+      "Historical",
+      "libib"
+    ],
+    "title": "Atentado"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Losurdo Domenico",
+    "id": 97,
+    "isbn": "9786557170090",
+    "publisher": "Boitempo",
+    "tags": [
+      "Sociology",
+      "libib",
+      "Politics"
+    ],
+    "title": "Colonialismo e luta anticolonial. Desafios da revolucao no seculo XXI"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Tsugumi Ohba",
+    "id": 103,
+    "isbn": "9788577876969",
+    "publisher": "Editora JBC",
+    "tags": [
+      "Mystery",
+      "Comics",
+      "Crime",
+      "Horror",
+      "Manga",
+      "libib",
+      "Thriller",
+      "Young Adult",
+      "Fantasy"
+    ],
+    "title": "Death Note: Black Edition, Volume 03"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Tsugumi Ohba",
+    "id": 105,
+    "isbn": "9788577877058",
+    "publisher": "Editora JBC",
+    "tags": [
+      "Mystery",
+      "Comics",
+      "Crime",
+      "Horror",
+      "Manga",
+      "libib",
+      "Thriller",
+      "Young Adult",
+      "Fantasy"
+    ],
+    "title": "Death Note: Black Edition, Volume 04"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Johan Huizinga",
+    "id": 116,
+    "isbn": "9788582851371",
+    "publisher": "Penguin - Companhia das Letras",
+    "tags": [
+      "libib",
+      "Classics",
+      "Philosophy",
+      "History",
+      "Art"
+    ],
+    "title": "O Outono da Idade M\u00e9dia"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Leo Tolstoy",
+    "id": 117,
+    "isbn": "9786555250572",
+    "publisher": "Editora 34",
+    "tags": [
+      "Classics",
+      "Fiction",
+      "General",
+      "Historical",
+      "libib",
+      "Literary",
+      "Romance"
+    ],
+    "title": "Anna Kar\u00eanina"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Miguel de Cervantes Saavedra",
+    "id": 121,
+    "isbn": "9788563560551",
+    "publisher": "Penguin - Companhia das Letras",
+    "tags": [
+      "Humour",
+      "Adventure",
+      "libib",
+      "Classics",
+      "Historical"
+    ],
+    "title": "Dom Quixote"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": true,
+    "authors": "Grant Morrison",
+    "id": 159,
+    "isbn": "9788565484077",
+    "publisher": "Panini Books",
+    "tags": [
+      "Comic Book Series",
+      "libib",
+      "Science Fiction",
+      "Comics",
+      "Fantasy"
+    ],
+    "title": "We3"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Jane Austen",
+    "id": 162,
+    "isbn": "9789897780615",
+    "publisher": "Pandora's Box",
+    "tags": [
+      "Romance",
+      "libib"
+    ],
+    "title": "Pride and Prejudice"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "Hanya Yanagihara",
+    "id": 168,
+    "isbn": "9788501071545",
+    "publisher": "Record",
+    "tags": [
+      "Contemporary",
+      "Adult",
+      "libib"
+    ],
+    "title": "Uma vida pequena"
+  },
+  {
+    "*cdd_class": "substring: unknown function",
+    "*read": false,
+    "authors": "J\u00f4 Soares",
+    "id": 173,
+    "isbn": "9788535906172",
+    "publisher": "Companhia das Letras",
+    "tags": [
+      "Mystery",
+      "General",
+      "Crime",
+      "libib",
+      "Fiction",
+      "Historical",
+      "Romance"
+    ],
+    "title": "Assassinatos Na Academia Brasileira De Letras"
+  },
+  {
     "*cdd_class": "substring: unknown function",
     "*read": false,
     "authors": "Victor Hugo",
@@ -2943,22 +3285,6 @@
       "libib"
     ],
     "title": "O corcunda do Notre-Dame"
-  },
-  {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Brandon Sanderson",
-    "id": 178,
-    "isbn": "9788576574033",
-    "publisher": "Aleph",
-    "tags": [
-      "Fantasy",
-      "libib",
-      "Science Fiction",
-      "Young Adult"
-    ],
-    "title": "Calamidade"
   },
   {
     "*cdd_class": "substring: unknown function",
@@ -2986,145 +3312,6 @@
     "title": "Box Umberto Eco: O nome da Rosa | O p\u00eandulo de Foucault | O cemit\u00e9rio de Praga"
   },
   {
-    "*cdd": "813.0876",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Isaac Asimov",
-    "id": 181,
-    "isbn": "9788576575016",
-    "publisher": "SIRGAWAIN",
-    "tags": [
-      "libib"
-    ],
-    "title": "Box S\u00e9rie dos rob\u00f4s"
-  },
-  {
-    "*cdd": "820",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "J. R. R. Tolkien",
-    "id": 182,
-    "isbn": "9788595086357",
-    "publisher": "HarperCollins Brasil",
-    "tags": [
-      "Adventure",
-      "libib",
-      "Science Fiction",
-      "Classics",
-      "Young Adult",
-      "Fantasy"
-    ],
-    "title": "O Senhor dos An\u00e9is"
-  },
-  {
-    "*cdd": "891.73",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Fyodor Dostoevsky & Fi\u00f3dor Dostoyevski",
-    "id": 183,
-    "isbn": "9788573267310",
-    "publisher": "Editora 34",
-    "tags": [
-      "libib"
-    ],
-    "title": "Caixa Cinco Grandes Romances De Dostoi\u00e9vski"
-  },
-  {
-    "*cdd": "823",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "James Meek",
-    "id": 184,
-    "isbn": "9788501082312",
-    "publisher": "Record",
-    "tags": [
-      "Contemporary",
-      "libib"
-    ],
-    "title": "Estamos Come\u00e7ando Nossa Descida"
-  },
-  {
-    "*cdd": "869.98",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Marques Rebelo",
-    "id": 185,
-    "isbn": "9788503010375",
-    "publisher": "Jos\u00e9 Olympio",
-    "tags": [
-      "libib"
-    ],
-    "title": "Cortina de ferro"
-  },
-  {
-    "*cdd": "823",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Wilhelm Hauff & Charles Dickens & Mark Twain & Harriet Beecher Stowe & Adelbert von Chamisso & Oscar Wilde & Robert Louis Stevenson & Edgar Allan Poe & William Hope Hodgson & Joseph Sheridan le Fanu & John Buchan & Louis Tracy & Bram Stoker & Anatole France & Charlotte Bront\u00eb & Emily Bront\u00eb & Jack London & Henry James & Th\u00e9ophile Gautier & Arthur Conan Doyle & Richard le Gallienne & Jane Austen & Algernon Blackwood & Ralph Adams Cram & Thomas de Quincey & John Meade Falkner & Guy de Maupassant & Thomas Hardy & William Archer & Daniel Defoe & John Kendrick Bangs & Cleveland Moffett & Brander Matthews & Marie Belloc Lowndes & Sax Rohmer & Horace Walpole & Rudyard Kipling & Lafcadio Hearn & Ambrose Bierce & Frederick Marryat & Ellis Parker Butler & Washington Irving & Leonid Andreyev & David Lindsay & Nathaniel Hawthorne & Grant Allen & Arthur Machen & Wilkie Collins & William Makepeace Thackeray & Thomas Peckett Prest & James Malcolm Rymer & Fergus Hume & Edward Bellamy & Walter Hubbell & S. Mukerji & Charlotte Perkins Gilman & Leopold Kompert & Richard Marsh & Florence Marryat & Catherine Crowe & Marjorie Bowen & John William Polidori & Vincent O'Sullivan & H. G. Wells & Robert W. Chambers & W. W. Jacobs & M. P. Shiel & E. F. Benson & Jerome K. Jerome & M. R. James & E. T. A. Hoffmann & George W. M. Reynolds & H. P. Lovecraft & Robert E. Howard & Edith Nesbit & Sabine Baring-Gould & William Thomas Beckford & Francis Marion Crawford & Mary Elizabeth Braddon & Mary Louisa Molesworth & Mary E. Wilkins Freeman & Nikolai Gogol & Mary Shelley & Elizabeth Gaskell & Gertrude Atherton & Edward Bulwer-Lytton & Frank R. Stockton & A. T. Quiller-Couch & Olivia Howard Dunbar & Ann Radcliffe & Louisa M. Alcott & Amelia B. Edwards & Leonard Kip & Matthew Gregory Lewis & Fitz-James O'Brien & Katherine Rickford & Bithia Mary Croker & Catherine L. Pirkis & \u00c9mile Erckmann & Alexandre Chatrian & Pedro de Alar\u00e7on & J. K. Huysmans & H. H. Munro (saki) & Pliny The Younger & Helena Blavatsky & Villiers de L'Isle Adam & William F. Harvey & Fiona Macleod & William T. Stead & Gambier Bolton & Andrew Jackson Davis & Nizida & Walter F. Prince & Chester Bailey Fernando",
-    "id": 186,
-    "isbn": "8596547794035",
-    "publisher": "Good Press",
-    "tags": [
-      "Fiction & Literature",
-      "Horror",
-      "Anthologies"
-    ],
-    "title": "Horror Anthology"
-  },
-  {
-    "*cdd": "833",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Hermann Hesse",
-    "id": 187,
-    "isbn": "9786555873382",
-    "tags": [
-      "Literary Work"
-    ],
-    "title": "Demian"
-  },
-  {
-    "*cdd": "833",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Hermann Hesse",
-    "id": 188,
-    "isbn": "9786555873368",
-    "tags": [
-      "Classics",
-      "Philosophy",
-      "Spirituality",
-      "Religion",
-      "Historical"
-    ],
-    "title": "Sidarta"
-  },
-  {
-    "*cdd": "833",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Hermann Hesse",
-    "id": 189,
-    "isbn": "9786555873375",
-    "tags": [
-      "Classics",
-      "Philosophy",
-      "Psychology"
-    ],
-    "title": "O Lobo da Estepe"
-  },
-  {
-    "*cdd": "327.73",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Reginaldo Nasser",
-    "id": 190,
-    "isbn": "9786588470886",
-    "publisher": "Contracorrente",
-    "tags": [],
-    "title": "A Luta Contra o Terrorismo: os Estados Unidos e os Amigos Talib\u00e3s"
-  },
-  {
     "*cdd_class": "substring: unknown function",
     "*read": false,
     "authors": "Fernando Morais",
@@ -3132,117 +3319,6 @@
     "isbn": "",
     "tags": [],
     "title": "Olga: A vida de Olga Benario Prestes, judia comunista entregue a Hitler pelo governo Vargas"
-  },
-  {
-    "*cdd": "947",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Vijay Prashad",
-    "id": 192,
-    "isbn": "9788577433582",
-    "publisher": "Express\u00e3o Popular",
-    "tags": [
-      "History",
-      "Politics",
-      "Sociology"
-    ],
-    "title": "Estrela Vermelha Sobre o Terceiro Mundo"
-  },
-  {
-    "*cdd": "823",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Agatha Christie",
-    "id": 193,
-    "isbn": "9786555652277",
-    "publisher": "L&PM",
-    "tags": [
-      "Mystery",
-      "Crime",
-      "Classics",
-      "Thriller"
-    ],
-    "title": "Noite sem Fim"
-  },
-  {
-    "*cdd": "823",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Agatha Christie",
-    "id": 194,
-    "isbn": "9789895620579",
-    "publisher": "Pandora's Box",
-    "tags": [
-      "Greek & Roman",
-      "Mystery & Suspense",
-      "Fiction & Literature",
-      "Drama"
-    ],
-    "title": "The Agatha Christie Collection"
-  },
-  {
-    "*cdd": "823",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Agatha Christie",
-    "id": 195,
-    "isbn": "9789895624416",
-    "publisher": "Pandora's Box",
-    "tags": [
-      "Traditional British",
-      "Drama",
-      "Entertainment",
-      "Anthologies",
-      "Nonfiction",
-      "Mystery & Suspense"
-    ],
-    "title": "The Big Four: A Hercule Poirot Mystery (Hercule Poirot series Book 5)"
-  },
-  {
-    "*cdd": "823",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Agatha Christie",
-    "id": 196,
-    "isbn": "9788520923627",
-    "publisher": "Nova Fronteira",
-    "tags": [
-      "Mystery",
-      "Crime",
-      "Classics",
-      "Thriller"
-    ],
-    "title": "Cai o pano"
-  },
-  {
-    "*cdd": "823",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Heather Morris",
-    "id": 197,
-    "isbn": "9788542219067",
-    "publisher": "Planeta",
-    "tags": [
-      "Historical",
-      "War",
-      "Adult"
-    ],
-    "title": "A viagem de Cilka"
-  },
-  {
-    "*cdd": "823",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Heather Morris",
-    "id": 198,
-    "isbn": "9780062797162",
-    "publisher": "HarperCollins",
-    "tags": [
-      "Fiction & Literature",
-      "Literary",
-      "Cultural Heritage"
-    ],
-    "title": "The Tattooist of Auschwitz"
   },
   {
     "*cdd_class": "substring: unknown function",
@@ -3317,21 +3393,6 @@
     "title": "A Civiliza\u00e7\u00e3o dos Meg\u00e1litos"
   },
   {
-    "*cdd": "028.5",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Alexandre Dumas",
-    "id": 207,
-    "isbn": "9789897786105",
-    "publisher": "Pandora's Box",
-    "tags": [
-      "Romance",
-      "Fiction & Literature",
-      "Action Suspense"
-    ],
-    "title": "The Count of Monte Cristo"
-  },
-  {
     "*cdd_class": "substring: unknown function",
     "*read": true,
     "authors": "Fi\u00f3dor Dostoyevski",
@@ -3339,22 +3400,6 @@
     "isbn": "",
     "tags": [],
     "title": "Noites Brancas"
-  },
-  {
-    "*cdd": "823",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Agatha Christie",
-    "id": 209,
-    "isbn": "9788520934807",
-    "publisher": "Nova Fronteira",
-    "tags": [
-      "Mystery",
-      "Crime",
-      "Classics",
-      "Thriller"
-    ],
-    "title": "Morte na Mesopot\u00e2mia"
   },
   {
     "*cdd_class": "substring: unknown function",
@@ -3366,38 +3411,6 @@
     "title": "As Almas Rebeldes"
   },
   {
-    "*cdd": "823",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Agatha Christie",
-    "id": 211,
-    "isbn": "9789895620579",
-    "publisher": "Pandora's Box",
-    "tags": [
-      "Drama",
-      "Mystery & Suspense",
-      "Fiction & Literature",
-      "Greek & Roman"
-    ],
-    "title": "The Agatha Christie Collection"
-  },
-  {
-    "*cdd": "823",
-    "*cdd_class": "substring: unknown function",
-    "*read": false,
-    "authors": "Agatha Christie",
-    "id": 212,
-    "isbn": "9786555651744",
-    "publisher": "L&PM",
-    "tags": [
-      "Mystery",
-      "Classics",
-      "Crime",
-      "Thriller"
-    ],
-    "title": "A Casa Torta"
-  },
-  {
     "*cdd_class": "substring: unknown function",
     "*read": false,
     "authors": "\u00c1lvaro Cardoso Gomes",
@@ -3405,19 +3418,6 @@
     "isbn": "",
     "tags": [],
     "title": "O Senhor dos Porcos"
-  },
-  {
-    "*cdd": "394.909",
-    "*cdd_class": "substring: unknown function",
-    "*read": true,
-    "authors": "Daniel Diehl & Mark P Donnelly & Mark Donnelly",
-    "id": 214,
-    "isbn": "9788525043467",
-    "publisher": "GLOBO",
-    "tags": [
-      "History"
-    ],
-    "title": "Devorando o Vizinho"
   },
   {
     "*cdd_class": "substring: unknown function",
